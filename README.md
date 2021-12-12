@@ -2,8 +2,6 @@
 
 
 - 🔭 Busco ser um dev front-end
-- 🌱 Estudando JavaScript
-- 👯 Linguagens: HTML/CSS
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
