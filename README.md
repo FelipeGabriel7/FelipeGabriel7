@@ -1,7 +1,7 @@
-# Olá! Eu sou o Felipe Gabriel 
+# Olá! Eu sou o Felipe 
 
 
-- 🔭 Busco ser um dev front-end
+- 🔭 Busco ser um desenvolvedor Full-Stack
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
