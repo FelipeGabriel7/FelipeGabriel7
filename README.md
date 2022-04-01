@@ -1,10 +1,11 @@
 # Olá! Eu sou o Felipe 
+- 🔭 Busco ser um desenvolvedor Full-Stack
+- 😄 Pronouns: Ele/dele
+
+
 <div style="display: flex">
 <img  style="justify-content: flex-end" width="20%" height="20%"src="https://gifimage.net/wp-content/uploads/2017/10/happy-pokemon-gif-1.gif">
  </div>
-
-- 🔭 Busco ser um desenvolvedor Full-Stack
-- 😄 Pronouns: Ele/dele
 
 <div align="center">
   <a href="https://github.com/FelipeGabriel7">
