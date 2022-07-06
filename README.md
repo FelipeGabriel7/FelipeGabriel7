@@ -16,12 +16,16 @@
 
 
 HTML
+
+
  • Tags semânticas 
  • iframes
  • estrutura do HTML
  • formulários 
 
 CSS
+
+
   • box modal
   • responsividade 
   • flexbox
@@ -30,6 +34,8 @@ CSS
   • efeitos/animações
 
 JS
+
+
   • Lógica de programação 
   • Manipulação do DOM
   • JS assíncrono 
@@ -39,6 +45,8 @@ JS
   • Boas práticas 
 
 React
+
+
   • Componentes
   • Estilização de componentes
   • React-ícone
@@ -47,4 +55,4 @@ React
 
 Estudando:
 
- - React e apromironando os conhecimentos em html, CSS e js
+ - React/Node.js e apromironando os conhecimentos em html, CSS e js
