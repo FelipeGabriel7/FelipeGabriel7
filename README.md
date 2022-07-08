@@ -1,5 +1,5 @@
 # Olá! Eu sou o Felipe 
-- 🔭 Busco ser um desenvolvedor Full-Stack
+- 🔭 Busco ser um desenvolvedor Front-End
 - 😄 Pronouns: Ele/dele
 
 
