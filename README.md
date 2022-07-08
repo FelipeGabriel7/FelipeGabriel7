@@ -15,44 +15,6 @@
  </div>
 
 
-HTML
 
 
- • Tags semânticas 
- • iframes
- • estrutura do HTML
- • formulários 
 
-CSS
-
-
-  • box modal
-  • responsividade 
-  • flexbox
-  • grid
-  • estilização Html
-  • efeitos/animações
-
-JS
-
-
-  • Lógica de programação 
-  • Manipulação do DOM
-  • JS assíncrono 
-  • Orientação a Objetos 
-  • validação de formulário
-  • ES6
-  • Boas práticas 
-
-React
-
-
-  • Componentes
-  • Estilização de componentes
-  • React-ícone
-  • Hooks(useState,useEffect)
-  • eventos
-
-Estudando:
-
- - React/Node.js e apromironando os conhecimentos em html, CSS e js
