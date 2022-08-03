@@ -1,5 +1,6 @@
 # Olá! Eu sou o Felipe 
-- 🪐 Estudando Javascript , React , Node.js
+- 🪐 Estudando HTML , CSS , Javascript , React , Node.js
+- 👩‍💻 Busco ser um desenvolvedor Front-end
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
