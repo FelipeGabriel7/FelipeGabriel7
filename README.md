@@ -1,8 +1,8 @@
 # Olá! Eu sou o Felipe Gabriel
 
-- 🪐 Estudando HTML , CSS , Javascript , React , Node.js
-- 👩‍💻 Busco oportunidade como desenvolvedor Front-end Júnior
-- 👨‍💻 Engenharia de Software(UNIFRAN - Conclusão 2025 )
+- 🪐 HTML , CSS , Javascript , React , Node.js
+- 👩‍💻 Desenvolvedor Front-end Júnior
+- 👨‍💻 Sistemas de informação(PITÁGORAS - Conclusão 2025 )
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
