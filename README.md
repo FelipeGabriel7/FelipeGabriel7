@@ -1,6 +1,6 @@
 # Olá! Eu sou o Felipe Gabriel
 
-- 🪐 HTML , CSS , Javascript , React , Node.js
+- 🪐 HTML , CSS , Javascript , React
 - 👩‍💻 Desenvolvedor Front-end Júnior
 - 👨‍💻 Sistemas de informação(PITÁGORAS - Conclusão 2025 )
 - 😄 Pronouns: Ele/dele
@@ -13,6 +13,9 @@
   <a href="https://github.com/FelipeGabriel7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGabriel7&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabriel7&layout=compact&langs_count=7&theme=aura"/>
+    </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeGabriel7&theme=dark" alt="FelipeGabriel7" /></p>
+</div>
 </div>
 <br>
 <div  align="Center" style="margin-left: 80px"> 
