@@ -3,7 +3,7 @@
 - 🪐 HTML , CSS , Javascript , React
 - 👩‍💻 Desenvolvedor Front-end Júnior
 - 👨‍💻 Sistemas de informação(PITÁGORAS - Conclusão 2025 )
-- 😄 Pronouns: Ele/dele
+
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/dc/e3/0f/dce30fceec92ae6cdaab787715b3092f.gif"/>
