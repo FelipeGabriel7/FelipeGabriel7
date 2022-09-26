@@ -1,8 +1,9 @@
-# Olá! Eu sou o Felipe Gabriel
+# Felipe Gabriel
 
-- 🪐 HTML , CSS , Javascript , React
-- 👩‍💻 Desenvolvedor Front-end Júnior
-- 👨‍💻 Sistemas de informação(PITÁGORAS - Conclusão 2025 )
+### 🪐 HTML , CSS , Javascript , React
+### 👩‍💻 Desenvolvedor Front-end Júnior
+### 👨‍💻 Sistemas de informação
+<br/>
 
 
 <div align="center">
