@@ -7,7 +7,6 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/dc/e3/0f/dce30fceec92ae6cdaab787715b3092f.gif"/>
 </div>
   <br>
 <div align="center" style="margin: 40px">
@@ -15,7 +14,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGabriel7&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabriel7&layout=compact&langs_count=7&theme=aura"/>
     </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeGabriel7&theme=dark" alt="FelipeGabriel7" /></p>
 </div>
 </div>
 <br>
