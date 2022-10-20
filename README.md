@@ -1,10 +1,19 @@
-# Felipe Gabriel
 
-### 🪐 HTML , CSS , Javascript , React , Sass
-### 👩‍💻 Desenvolvedor Front-end Júnior
-### 👨‍💻 Sistemas de informação
-<br/>
 
+<h2 style="background: #fff"> Front-end and Web developer </h2>
+<h4 style="background: #fff"> Majoring in Information Systems </h4>
+
+
+### Stack
+
+- 💻 language: `JavaScript`
+- 👨‍💻 Front-end: `ReactJS`, `HTML5`, `CSS3`, `SASS`, `JavaScript`, `Bootstrap` , `Jquery` , `Wordpress`
+- 💅🏼 Layout design: `Figma` , `Canva`
+- 🔧 Version code control: `Git e Github`
+- 🔨 Tools: `VsCode`, `Markdown` , `Trello` , `Notion`
+
+
+<hr/>
 
 <div align="center">
 </div>
@@ -18,6 +27,10 @@
 </div>
 <br>
 <div  align="Center" style="margin-left: 80px"> 
+  
+  
+  <h3> Contact </h3>
+  <hr />
 
   <a href="https://www.instagram.com/gabrielfelipe02_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipegabfd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
