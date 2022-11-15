@@ -27,7 +27,7 @@
 </div>
 </div>
 <br>
-<div  align="Center" style="margin-left: 80px"> 
+<div  align="start" style="margin-left: 80px"> 
   
   
   <h3> Contact </h3>
