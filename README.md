@@ -8,7 +8,7 @@
 
 - 💻 language: `JavaScript`
 - 👨‍💻 Front-end: `ReactJS`, `HTML5`, `CSS3`, `SASS`, `JavaScript` , `Bootstrap` , `Jquery` 
-- 👨‍💻 Learning: `React.js` , `Node.js` , `Java`
+- 👨‍💻 Learning: `React.js`
 - 💅🏼 Layout design: `Figma` , `Canva`
 - 🔧 Version code control: `Git e Github`
 - 🔨 Tools: `VsCode`, `Eclipse` , `NetBeans` , `Trello` , `Notion`
