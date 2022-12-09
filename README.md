@@ -1,6 +1,6 @@
 
 
-<h2 style="background: #fff"> Front-end Developer and HElp Desk Analyst </h2>
+<h2 style="background: #fff"> Front-end Developer and Help Desk Analyst </h2>
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
 
