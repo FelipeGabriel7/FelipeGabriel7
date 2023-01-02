@@ -7,8 +7,8 @@
 ### Stack
 
 - 💻 language: `JavaScript`
-- 👨‍💻 Front-end: `ReactJS`, `HTML5`, `CSS3`, `SASS`, `JavaScript` , `Bootstrap` , `Jquery` 
-- 👨‍💻 Learning: `React.js` , `SQL` , `Node`
+- 👨‍💻 Front-end: `ReactJS`, `HTML5`, `CSS3`, `JavaScript` , `Bootstrap` , `Jquery` 
+- 👨‍💻 Learning: `React.js` , `SQL` , `Node` , `SASS` 
 - 💅🏼 Layout design: `Figma` , `Canva`
 - 🔧 Version code control: `Git e Github`
 - 🔨 Tools: `VsCode`, `Eclipse` , `NetBeans` , `Trello` , `Notion`
