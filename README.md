@@ -16,21 +16,9 @@
 
 <hr/>
 
-<div align="center">
-</div>
-  <br>
-<div align="center" style="margin: 40px">
-  <a href="https://github.com/FelipeGabriel7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGabriel7&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabriel7&layout=compact&langs_count=7&theme=aura"/>
-    </br>
-</div>
-</div>
-<br>
-<div  align="start" style="margin-left: 80px"> 
+
   
-  
-  <h3> Contact </h3>
+  <h3 class="text-align: center"> Contact </h3>
   <hr />
 
   <a href="https://www.instagram.com/gabrielfelipe02_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
