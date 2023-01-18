@@ -7,8 +7,8 @@
 ### Stack
 
 - 💻 language: `JavaScript`
-- 👨‍💻 Front-end: `ReactJS`, `HTML5`, `CSS3`, `JavaScript` , `Bootstrap` , `Jquery` 
-- 👨‍💻 Learning: `React.js` , `SQL` , `Node` , `SASS` 
+- 👨‍💻 Front-end: `ReactJS`, `HTML5`, `CSS3`, `JavaScript` , `Bootstrap`
+- 👨‍💻 Learning: `React.js` , `SQL` , `SASS` 
 - 💅🏼 Layout design: `Figma` , `Canva`
 - 🔧 Version code control: `Git e Github`
 - 🔨 Tools: `VsCode`, `Eclipse` , `NetBeans` , `Trello` , `Notion`
@@ -32,9 +32,7 @@
   <img align="center" alt="Felipe-Git" title="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
    <img align="center" alt="Wordpress" title="bootstrap" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Felipe-JS"  title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="jquery" title="jquery" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="Felipe-React"  title="React"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Wordpress" title="Wordpress" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
         <img align="center" alt="Felipe-Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         
 </div>
