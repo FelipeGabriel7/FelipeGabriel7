@@ -3,20 +3,6 @@
 <h2 style="background: #fff"> Front-end Developer and Help Desk Analyst </h2>
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
-
-### Stack
-
-- 💻 language: `JavaScript`
-- 👨‍💻 Front-end: `React.js`, `HTML5`, `CSS3`, `JavaScript` , `Bootstrap`
-- 👨‍💻 Learning: `React.js` , `SQL`
-- 💅🏼 Layout design: `Figma` , `Canva`
-- 🔧 Version code control: `Git e Github`
-- 🔨 Tools: `VsCode`, `Eclipse` , `Trello` , `Notion`
-
-
-<hr/>
-
-
   
   <h3 class="text-align: center"> Contact </h3>
   <hr />
