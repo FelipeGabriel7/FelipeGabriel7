@@ -7,7 +7,7 @@
 
   
   <div style="display: flex , gap: 2rem">
-    <img align='center' width="40%" src="https://github-readme-stats.vercel.app/api?username=FelipeGabriel7&show_icons=true&title_color=09eed&text_color=fff&icon_color=09eed&bg_color=222&cache_seconds=400">
+    <img align='center' src="https://github-readme-stats.vercel.app/api?username=FelipeGabriel7&show_icons=true&title_color=09eed&text_color=fff&icon_color=09eed&bg_color=222&cache_seconds=400">
   </div>
 
 <div align="start" style="display: inline_block"><br>
