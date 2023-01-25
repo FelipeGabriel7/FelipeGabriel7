@@ -4,7 +4,9 @@
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
   
-
+  <div style="display: flex">
+    <img align='left' src="https://github-readme-stats.vercel.app/api?username=FelipeGabriel7&show_icons=true&title_color=09eed&text_color=fff&icon_color=09eed&bg_color=222&cache_seconds=400">
+  </div>
 
 <div align="start" style="display: inline_block"><br>
  <img align="center" alt="Felipe-HTML"  title="HTML"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,10 +20,15 @@
 </div>
 
 <div>
+   <hr />
   <h3 class="text-align: center"> Contact </h3>
-  <hr />
+ 
 
   <a href="https://www.instagram.com/gabrielfelipe02_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipegabfd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-gabriel-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
+  
+
+  
+  
   </div>
