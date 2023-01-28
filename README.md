@@ -6,9 +6,12 @@
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
   
-  <div style="display: flex , gap: 2rem">
-    <img align='center' src="https://github-readme-stats.vercel.app/api?username=FelipeGabriel7&show_icons=true&title_color=09eed&text_color=fff&icon_color=09eed&bg_color=222&cache_seconds=400">
-  </div>
+ <div>
+   <a href="https://github.com/Rhu-Martins">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGabriel7&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabriel7&layout=compact&langs_count=6&theme=aura"/>
+
+</div>
 
 <div align="start" style="display: inline_block"><br>
  <img align="center" alt="Felipe-HTML"  title="HTML"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
