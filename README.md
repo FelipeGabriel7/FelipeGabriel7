@@ -24,7 +24,7 @@
         
 </div>
 
-<div>
+<div align="center">
    <hr />
   <h3 class="text-align: center"> Contact </h3>
  
