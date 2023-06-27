@@ -1,28 +1,75 @@
 
-<div style="display: flex; gap: 2rem ">
+<div style="display: flex; gap: 2rem;widht: 1200px">
 
 
 <h2 style="background: #fff"> Front-end Developer and Help Desk Analyst </h2>
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
-  
- <div>
-   <a href="https://github.com/Rhu-Martins">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGabriel7&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabriel7&layout=compact&langs_count=6&theme=aura"/>
+<hr/>
 
+<img src="https://giffiles.alphacoders.com/209/209661.gif" alt="image" width="1600" height="400" autoplay/>
+
+
+<hr/>
+
+  ```Javascript
+    const about = {
+        name: 'Felipe Gabriel',
+        age: 21,
+        about: 'Web development student and technical support analyst, focused on being a front-end specialist,
+        level: 'Junior',
+
+
+        Languages: {
+              'Javascript', 'SQL' , 'JAVA'
+          },
+
+        Front-End-Tools: [
+            'HTML',
+            'CSS',
+            'Bootstrap',
+            'React.js',
+            'Javascript',
+            'SASS/SCSS',
+            'Redux',
+            'Context Api',
+            'Git/Github',
+            'Figma'
+        ],
+
+        Database-Tools: [
+              'SQL Server',
+              'Firebase'
+        ],
+
+      
+
+    }
+
+
+  ```
+
+
+ <a href="https://github.com/FelipeGabriel7"/>
+ <div align="center">
+  <a href="https://github.com/FelipeGabriel7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGabriel7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabriel7&layout=compact&langs_count=7&theme=dracula"/>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeGabriel7&theme=dracula" alt="FelipeGabriel7" /></p>
 </div>
 
-<div align="start" style="display: inline_block"><br>
- <img align="center" alt="Felipe-HTML"  title="HTML"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS"  title="CSS"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Wordpress" title="bootstrap" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-   <img align="center" alt="Felipe-Git" title="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Felipe-JS"  title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-React"  title="React"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        <img align="center" alt="Felipe-Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        
-</div>
+## 👩‍💻 Technologies I'm learning
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 <div align="center">
    <hr />
