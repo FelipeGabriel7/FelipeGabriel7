@@ -16,7 +16,7 @@
     const about = {
         name: 'Felipe Gabriel',
         age: 21,
-        about: 'Web development student and technical support analyst, focused on being a front-end specialist,
+        about: 'Web development student and technical support analyst, focused on being a front-end specialist',
         level: 'Junior',
 
 
@@ -39,8 +39,14 @@
 
         Database-Tools: [
               'SQL Server',
+              'T-SQL',
               'Firebase'
         ],
+
+        BackEnd-Tools: [
+              'Node js',
+              'Java',
+        ] 
 
       
 
