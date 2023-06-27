@@ -15,7 +15,7 @@
   ```Javascript
     const about = {
         name: 'Felipe Gabriel',
-        age: 21,
+        age: 20,
         about: 'Web development student and technical support analyst, focused on being a front-end specialist',
         level: 'Junior',
 
