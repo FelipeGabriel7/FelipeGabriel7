@@ -41,7 +41,6 @@
 
         Database-Tools: [
               'SQL Server',
-              'T-SQL',
               'Firebase'
         ],
 
