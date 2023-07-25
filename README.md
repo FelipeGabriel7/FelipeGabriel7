@@ -31,6 +31,8 @@
             'React.js',
             'Javascript',
             'SASS/SCSS',
+            'Wordpress',
+            'Styled-Components',
             'Redux',
             'Context Api',
             'Git/Github',
