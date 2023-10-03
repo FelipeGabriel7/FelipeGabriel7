@@ -21,7 +21,7 @@
 
 
         Languages: {
-              'Javascript', 'SQL' , 'JAVA'
+              'Javascript', 'Typescript' , 'SQL' , 'JAVA'
           },
 
         Front-End-Tools: [
