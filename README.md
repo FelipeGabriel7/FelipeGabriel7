@@ -6,10 +6,6 @@
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
 <hr/>
-
-<img src="https://giffiles.alphacoders.com/209/209661.gif" alt="image" width="1600" height="400" autoplay/>
-
-
 <hr/>
 
   ```Javascript
@@ -18,41 +14,20 @@
         age: 20,
         about: 'Web development student and technical support analyst, focused on being a front-end specialist',
         level: 'Junior',
-
-
         Languages: {
               'Javascript', 'Typescript' , 'SQL' , 'JAVA'
           },
-
         Front-End-Tools: [
-            'HTML',
-            'CSS',
-            'Bootstrap',
-            'React.js',
-            'Javascript',
-            'SASS/SCSS',
-            'Wordpress',
-            'Styled-Components',
-            'Redux',
-            'Context Api',
-            'Git/Github',
-            'Figma'
+            'HTML', 'CSS', 'Bootstrap', 'React.js', 'Javascript', 'SASS/SCSS', 'Wordpress', 'Styled-Components',
+            'Redux', 'Context Api', 'Git/Github','Figma'
         ],
-
         Database-Tools: [
-              'SQL Server',
-              'Firebase'
+              'SQL Server','Firebase'
         ],
-
         BackEnd-Tools: [
-              'Node js',
-        ] 
-
-      
-
+              'Node js'
+        ],
     }
-
-
   ```
 
 
