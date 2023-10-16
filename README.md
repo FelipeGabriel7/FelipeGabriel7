@@ -12,7 +12,7 @@
     const about = {
         name: 'Felipe Gabriel',
         age: 20,
-        about: 'Web development student and technical support analyst, focused on being a front-end specialist',
+        about: 'Web development student and technical support analyst, focused on being a Full Stack Developer && Specialist Front-End Developer',
         level: 'Junior',
         Languages: {
               'Javascript', 'Typescript' , 'SQL' , 'JAVA'
