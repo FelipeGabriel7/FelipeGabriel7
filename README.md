@@ -12,14 +12,14 @@
     const about = {
         name: 'Felipe Gabriel',
         age: 20,
-        about: 'Web development student and technical support analyst, focused on being a Full Stack Developer && Specialist Front-End Developer',
+        about: 'Web development student and technical support analyst, focused on being a Full Stack Developer and Specialist Front-End Developer',
         level: 'Junior',
         Languages: {
-              'Javascript', 'Typescript' , 'SQL' , 'JAVA'
+              'Javascript', 'Typescript' , 'SQL' 
           },
         Front-End-Tools: [
             'HTML', 'CSS', 'Bootstrap', 'React.js', 'Javascript', 'SASS/SCSS', 'Wordpress', 'Styled-Components',
-            'Redux', 'Context Api', 'Git/Github','Figma'
+            'Redux', 'Context Api', 'Git/Github','Figma', 'Axios', 'Fetch API'
         ],
         Database-Tools: [
               'SQL Server','Firebase'
