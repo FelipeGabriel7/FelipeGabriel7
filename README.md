@@ -5,7 +5,10 @@
 <h2 style="background: #fff"> Front-end Developer and Help Desk Analyst </h2>
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
+
 <hr/>
+
+<p style="background: #fff"> Studying: SQL, Typescript , Dart , UI & UX </p>
 <hr/>
 
   ```Javascript
@@ -14,9 +17,7 @@
         age: 20,
         about: 'Web development student and technical support analyst, focused on being a Full Stack Developer and Specialist Front-End Developer',
         level: 'Junior',
-        Studying: {
-          'SQL' , 'Typescript' , 'Dart' , 'C and C++'
-        } , 
+       
         Languages: {
               'Javascript', 'Typescript' , 'SQL' 
           },
@@ -25,7 +26,7 @@
             'Redux', 'Context Api', 'Git/Github','Figma', 'Axios', 'Fetch API'
         ],
         Database-Tools: [
-              'SQL Server','Firebase'
+              'SQL Server', 'MySQL' , 'Firebase'
         ],
         BackEnd-Tools: [
               'Node js'
