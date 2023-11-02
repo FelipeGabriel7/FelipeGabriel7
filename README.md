@@ -14,6 +14,9 @@
         age: 20,
         about: 'Web development student and technical support analyst, focused on being a Full Stack Developer and Specialist Front-End Developer',
         level: 'Junior',
+        Studying: {
+          'SQL' , 'Typescript' , 'Dart' , 'C and C++'
+        } , 
         Languages: {
               'Javascript', 'Typescript' , 'SQL' 
           },
