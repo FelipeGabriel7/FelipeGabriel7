@@ -17,7 +17,7 @@
         level: 'Junior',
        
         Languages: {
-              'Javascript', 'Typescript' , 'SQL' 
+              'Javascript', 'Typescript' , 'Dart' , 'SQL' 
           },
         Front-End-Tools: [
             'HTML', 'CSS', 'Bootstrap', 'React.js', 'Javascript', 'SASS/SCSS', 'Wordpress', 'Styled-Components',
