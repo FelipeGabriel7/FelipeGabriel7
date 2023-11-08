@@ -6,9 +6,7 @@
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
 
-<hr/>
-
-<p style="background: #fff"> Studying: SQL, Typescript , Dart , UI & UX </p>
+<h4 style="background: #fff"> Studying: UI & UX , React.js , Node.js , Dart , SQL </h4>
 <hr/>
 
   ```Javascript
@@ -23,7 +21,7 @@
           },
         Front-End-Tools: [
             'HTML', 'CSS', 'Bootstrap', 'React.js', 'Javascript', 'SASS/SCSS', 'Wordpress', 'Styled-Components',
-            'Redux', 'Context Api', 'Git/Github','Figma', 'Axios', 'Fetch API'
+            'Redux', 'Context Api', 'Git/Github','Figma', 'Axios', 'Fetch API' , 'UI Design'
         ],
         Database-Tools: [
               'SQL Server', 'MySQL' , 'Firebase'
