@@ -7,30 +7,7 @@
 
 
 <h4 style="background: #fff"> Studying: UI & UX , React.js , Node.js , Dart , SQL </h4>
-<hr/>
 
-  ```Javascript
-    const about = {
-        name: 'Felipe Gabriel',
-        age: 20,
-        about: 'Web development student and technical support analyst, focused on being a Full Stack Developer and Specialist Front-End Developer',
-        level: 'Junior',
-       
-        Languages: {
-              'Javascript', 'Typescript' , 'Dart' , 'SQL' 
-          },
-        Front-End-Tools: [
-            'HTML', 'CSS', 'Bootstrap', 'React.js', 'Javascript', 'SASS/SCSS', 'Wordpress', 'Styled-Components',
-            'Redux', 'Context Api', 'Git/Github','Figma', 'Axios', 'Fetch API' , 'UI Design'
-        ],
-        Database-Tools: [
-              'SQL Server', 'MySQL' , 'Firebase'
-        ],
-        BackEnd-Tools: [
-              'Node js'
-        ],
-    }
-  ```
 
 
  <a href="https://github.com/FelipeGabriel7"/>
