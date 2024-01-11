@@ -5,7 +5,7 @@
 <h2 style="background: #fff"> Front-end Developer and Help Desk Analyst </h2>
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
-
+<h4 style="background: #fff"> Stack: Angular , React.js , Node.js , Flutter , C# , SQL Server  </h4>
 <h4 style="background: #fff"> Studying: UI & UX , React.js , Node.js , Dart , SQL </h4>
 
 
