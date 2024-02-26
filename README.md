@@ -6,7 +6,7 @@
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
 <h4 style="background: #fff"> Stack: React.js / Node.js / Typescript </h4>
-<h4 style="background: #fff"> Studying: UI & UX Design / React.js / Node.js / SQL / Flutter / C# </h4>
+<h4 style="background: #fff"> Studying: UI & UX Design / QA / React.js / Node.js / SQL </h4>
 
 
 
