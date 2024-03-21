@@ -1,7 +1,8 @@
 
 <div style="display: flex; gap: 2rem;widht: 1200px">
 
-<h2 style="background: #fff"> Front-end Developer and Help Desk Analyst </h2>
+<h2 style="background: #fff"> Help Desk Analyst WMI</h2>
+<h3 style="background: #fff"> Front-End | UI Design | QA Analyst</h3>
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 <h4 style="background: #fff"> Stack: React.js / Node.js / Typescript </h4>
 <h4 style="background: #fff"> Studying: UI Design & Automated tests / React.js / Node.js / SQL </h4>
