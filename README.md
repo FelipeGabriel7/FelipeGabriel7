@@ -23,7 +23,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/express-green.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-red.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Styled Componentes](https://img.shields.io/badge/StyledComponents-%23593d88.svg?style=for-the-badge&logo=StyledComponents&logoColor=white)
@@ -35,8 +34,7 @@
 ![CSS](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/MSSQL-blue?logo=microsoft-sql-server&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLITE](https://img.shields.io/badge/sqlite-blue.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-orange.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+
 
 
 
