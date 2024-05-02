@@ -3,8 +3,12 @@
 
 <h2 style="background: #fff"> Help Desk Analyst WMI</h2>
 <h3 style="background: #fff"> Fullstack Developer | UI Design </h3>
-<h4 style="background: #fff"> Majoring in Information Systems </h4>
 <h4 style="background: #fff"> Stack: Javascript | Typescript  | Python | PHP </h4>
+<h4 style="background: #fff"> Majoring in Information Systems </h4>
+<hr/>
+
+
+<br/>
 
  <a href="https://github.com/FelipeGabriel7"/>
  <div align="center">
@@ -13,6 +17,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabriel7&layout=compact&langs_count=7&theme=dracula"/>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeGabriel7&theme=dracula" alt="FelipeGabriel7" /></p>
 </div>
+
+<br/>
+
+<hr/>
 
 ## 👩‍💻 Technologies
 
