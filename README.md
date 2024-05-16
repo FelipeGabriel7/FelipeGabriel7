@@ -25,8 +25,6 @@
 ## 👩‍💻 Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![JQuery](https://img.shields.io/badge/jquery-gray.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Boostrap](https://img.shields.io/badge/Boostrap-%23593d88.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![axios](https://img.shields.io/badge/axios-white.svg?style=for-the-badge&logo=axios&logoColor=purple)
 ![TypeScript](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/express-green.svg?style=for-the-badge&logo=express&logoColor=white)
