@@ -25,13 +25,13 @@
 ## 👩‍💻 Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![axios](https://img.shields.io/badge/axios-white.svg?style=for-the-badge&logo=axios&logoColor=purple)
 ![TypeScript](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/express-green.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Styled Componentes](https://img.shields.io/badge/StyledComponents-%23593d88.svg?style=for-the-badge&logo=StyledComponents&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-purple.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23593d88.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Robot](https://img.shields.io/badge/robotframework-turquoise.svg?style=for-the-badge&logo=robotframework&logoColor=light)
 ![Git](https://img.shields.io/badge/git-green.svg?style=for-the-badge&logo=git&logoColor=white)
