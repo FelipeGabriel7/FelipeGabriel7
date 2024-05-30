@@ -3,7 +3,7 @@
 
 <h2 style="background: #fff"> Help Desk Analyst WMI</h2>
 <h3 style="background: #fff"> Fullstack Developer | UI Design </h3>
-<h4 style="background: #fff"> Stack: Javascript | Typescript  | Python | PHP </h4>
+<h4 style="background: #fff"> Stack: Javascript | Typescript  | Python </h4>
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 <hr/>
 
