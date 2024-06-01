@@ -34,6 +34,10 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-purple.svg?style=for-the-badge&logo=axios&logoColor=white)
 
+#### 👨🏽‍💻 Back-End
+
+![express](https://img.shields.io/badge/express-green.svg?style=for-the-badge&logo=express&logoColor=white)
+
 #### 👨🏽‍💻 Databases
 
 ![SQL Server](https://img.shields.io/badge/MSSQL-red?logo=microsoft-sql-server&style=for-the-badge)
@@ -58,6 +62,7 @@
 ## 💻 Studying
 
 ![Angular](https://img.shields.io/badge/Angular-red.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![Next](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/php-purple.svg?style=for-the-badge&logo=php&logoColor=white)
