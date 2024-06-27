@@ -7,7 +7,8 @@
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![C#](https://img.shields.io/badge/csharp-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-violet.svg?style=for-the-badge&logo=php&logoColor=white)
 <br/>
 ## Technologies
 
@@ -48,10 +49,8 @@
 
 ## 💻 Studying
 ![Angular](https://img.shields.io/badge/Angular-red.svg?style=for-the-badge&logo=Angular&logoColor=white)
-![Next](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=nextjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=python&logoColor=yellow)
-![PHP](https://img.shields.io/badge/php-purple.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-violet.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <div align="center">
    <hr />
