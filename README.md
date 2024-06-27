@@ -1,7 +1,7 @@
 
 <div style="display: flex; gap: 2rem;widht: 1200px">
 <h3 style="background: #fff"> Front-End Developer & Help Desk Analyst </h3>
-<h4 style="background: #fff"> Stack: Javascript | Typescript  | Python </h4>
+<h4 style="background: #fff"> Stack: Javascript | Typescript | C# | PHP </h4>
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
 ## Languages
