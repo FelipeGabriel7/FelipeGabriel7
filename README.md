@@ -1,7 +1,7 @@
 
 <div style="display: flex; gap: 2rem;widht: 1200px">
 <h3 style="background: #fff"> Front-End Developer & Help Desk Analyst </h3>
-<h4 style="background: #fff"> Stack: Javascript | Typescript | C# | PHP </h4>
+<h4 style="background: #fff"> Stack: Javascript | Typescript | C# | Python </h4>
 <h4 style="background: #fff"> Majoring in Information Systems </h4>
 
 ## Languages
@@ -20,9 +20,9 @@
 ![Styled Componentes](https://img.shields.io/badge/StyledComponents-%23593d88.svg?style=for-the-badge&logo=StyledComponents&logoColor=white)
 
 #### 👨🏽‍💻 Front-end
+![Angular](https://img.shields.io/badge/Angular-red.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/reactnative-blue.svg?style=for-the-badge&logo=react&logoColor=white)
-![Wordpress](https://img.shields.io/badge/wodpress-gray.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jquery-gray.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-purple.svg?style=for-the-badge&logo=axios&logoColor=white)
@@ -37,7 +37,6 @@
 
 #### 👨🏽‍💻 Tests
 ![Robot](https://img.shields.io/badge/robotframework-turquoise.svg?style=for-the-badge&logo=robotframework&logoColor=light)
-![Cypress](https://img.shields.io/badge/cypress-black.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-orange.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-purple.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 
