@@ -27,7 +27,6 @@ Olá Dev! Seja bem vindo(a) <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gi
 
 <h5>Estudante de Sistemas de Informação focado em desenvolvimento back-end com C#/.NET e explorando Python para análise de dados. <h5/>
 <h5> Proficiente em UI design e desenvolvimento front-end, com habilidades sólidas em criar interfaces intuitivas e responsivas.</h5>
-<br>
 
 # Algumas das tecnologias que utilizo:
 
