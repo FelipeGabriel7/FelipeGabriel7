@@ -30,7 +30,7 @@ Olá Dev! Seja bem vindo(a) <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gi
 
 # Algumas das tecnologias que utilizo:
 
-![Frontend](https://skillicons.dev/icons?i=figma,wordpress,html,css,sass,tailwind,bootstrap,js,typescript,react,nodejs,mysql,sqlite)
+![Frontend](https://skillicons.dev/icons?i=figma,wordpress,html,css,sass,tailwind,bootstrap,js,typescript,react,nodejs,mysql)
 
 # Atualmente estou estudando as seguintes tecnologias
 
