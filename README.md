@@ -34,7 +34,7 @@ Olá Dev! Seja bem vindo(a) <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gi
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=angular,java,py)
+![Frontend](https://skillicons.dev/icons?i=angular,java)
 
 <br>
 
