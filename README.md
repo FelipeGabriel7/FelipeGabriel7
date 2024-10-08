@@ -31,11 +31,11 @@ Olá Dev! Seja bem vindo(a) <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gi
 
 # Algumas das tecnologias que utilizo:
 
-![Frontend](https://skillicons.dev/icons?i=figma,html,css,sass,tailwind,bootstrap,js,typescript,react,nodejs,mysql)
+![Frontend](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,js,typescript,react,express,mysql)
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=typescript,angular,java,python)
+![Frontend](https://skillicons.dev/icons?i=cypress,postman,selenium,react,angular,java,spring)
 
 <br>
 
