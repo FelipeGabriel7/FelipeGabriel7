@@ -27,15 +27,15 @@ Olá Dev! Seja bem vindo(a) <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gi
 
 <h5>Estudante de Sistemas de Informação </h5>
 <h5> Focado em desenvolvimento front-end utilizando: html,css, javascript,react e melhorando minhas habilidades em front-end com Angular. Proficiente em UI design e desenvolvimento front-end, com habilidades sólidas em criar interfaces intuitivas e responsivas. Possuo habilidades em automação de testes utilizando robot framework e postman, documentação, coleta de requisitos e analíse de sistemas.</h5>
-<h5> Além disso estou aprendendo Java/Spring para back-end e explorando Python para análise de dados. <h5/>
+<h5> Além disso estou aprendendo Java/Spring para back-end e Flutter para desenvolvimento mobile.<h5/>
 
 # Algumas das tecnologias que utilizo:
 
-![Frontend](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,js,typescript,react,express,mysql,postman,selenium)
+![Frontend](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,js,typescript,react,nodejs,mysql,postman)
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=cypress,angular,flutter,java,spring)
+![Frontend](https://skillicons.dev/icons?i=cypress,angular,flutter,java)
 
 <br>
 
