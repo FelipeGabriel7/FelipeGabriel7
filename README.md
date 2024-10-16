@@ -35,7 +35,7 @@ Olá Dev! Seja bem vindo(a) <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gi
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=cypress,angular,flutter,java)
+![Frontend](https://skillicons.dev/icons?i=cypress,react,next,angular,java,spring)
 
 <br>
 
