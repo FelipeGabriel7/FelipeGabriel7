@@ -40,7 +40,7 @@ Olá Dev! Seja bem vindo(a) <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gi
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=flutter,ts,java,spring)
+![Frontend](https://skillicons.dev/icons?i=ts,java,spring)
 
 <br>
 
