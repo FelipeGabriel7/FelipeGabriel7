@@ -3,7 +3,7 @@
 
   
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Felipe%20Gabriel&fontAlign=50&fontAlignY=40&color=0:09e,fff:3cb371F&animation=twinkling&fontColor=3B74BE)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Felipe%20Gabriel&fontAlign=50&fontAlignY=40&color=0:12ee,fff:3cb391F&animation=twinkling&fontColor=3B74BE)
 
 Olá Dev! Seja bem vindo(a) <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
 
@@ -25,22 +25,21 @@ Olá Dev! Seja bem vindo(a) <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gi
 
 # Sobre mim
 
-<h5> QA Analyst | Tests Analyst</h5>
+<h5> Analista de Testes | Analista de QA </h5>
 <h5> Graduando em Sistemas de Informação</h5>
 <ul>
-  <li> Focado em desenvolvimento front-end utilizando: html,css, javascript e react além disso melhorando minhas habilidades em front-end com Angular. </li>
-  <li>  Proficiente em UI design e desenvolvimento front-end, com habilidades sólidas em criar interfaces intuitivas e responsivas.</li>
-  <li>  Possuo habilidades em automação de testes utilizando robot framework e postman, documentação, coleta de requisitos e analíse de sistemas.</li>
-  <li>  Além disso estou explorando Java/Spring para back-end e Flutter para desenvolvimento mobile.</li>
+  <li> Focado em desenvolvimento front-end utilizando: html,css, javascript e react além disso melhorando minhas habilidades em front-end com Angular. possuo proeficiência em UI design e desenvolvimento front-end, com habilidades sólidas em criar interfaces intuitivas,responsivas e com boa usabilidade. </li>
+  <li>  Possuo habilidades em testes manuais, exploratórios, performance e automação de testes utilizando robot framework e postman, documentação, coleta de requisitos e analíse de sistemas.</li>
+  <li>  Além disso estou explorando Java/Spring para back-end e Python para automação e desenvolvimento web.</li>
 </ul>
 
 # Algumas das tecnologias que utilizo:
 
-![Frontend](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,js,typescript,react,mysql,postman)
+![Frontend](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,tailwind,js,typescript,react,mysql,postman,selenium)
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=ts,java,spring)
+![Frontend](https://skillicons.dev/icons?i=js,ts,java,python)
 
 <br>
 
