@@ -36,7 +36,7 @@ Olá Maninho(a)! Seja bem vindo(a) ao meu perfil! <img src="https://c.tenor.com/
 
 # Algumas das tecnologias que utilizo:
 
-![Frontend](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,tailwind,js,typescript,react,mysql,postman,selenium)
+![Frontend](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,tailwind,js,typescript,react,mysql,postman,selenium,gherkin)
 
 # Atualmente estou estudando as seguintes tecnologias
 
