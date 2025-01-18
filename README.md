@@ -40,7 +40,7 @@ Olá Maninho(a)! Seja bem vindo(a) ao meu perfil! <img src="https://c.tenor.com/
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=js,ts,python)
+![Frontend](https://skillicons.dev/icons?i=ts,python)
 
 <br>
 
