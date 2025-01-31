@@ -25,22 +25,22 @@ Olá Maninho(a)! Seja bem vindo(a) ao meu perfil! <img src="https://c.tenor.com/
 
 # Sobre mim
 
-<h5> Analista de Testes | Analista de QA </h5>
+<h5> Desenvolvedor | Analista de QA </h5>
 <h5> Graduando em Sistemas de Informação</h5>
 <ul>
   <li> Possuo habilidades em desenvolvimento front-end utilizando: html,css, javascript e react além disso melhorando minhas habilidades em front-end com Angular. possuo proeficiência em UI design e desenvolvimento front-end, com habilidades sólidas em criar interfaces intuitivas,responsivas e com boa usabilidade. </li>
   <li>  Possuo habilidades em testes manuais, exploratórios, performance, regressão, gestão de testes e incidentes, documentação, report de bugs, arquitetura de sistemas, BDD/TDD, e automação de testes utilizando robot framework e postman, além de coleta de requisitos e analíse de sistemas.</li>
-  <li>  Estou explorando Java/Spring para back-end e Python para automação e desenvolvimento web.</li>
+  <li>  Estou explorando C# e .NET para back-end e Python para automação e desenvolvimento web.</li>
   <li> Tenho interesse em computação aplicada a bioinformática, algoritmos genéticos e automação de testes</li>
 </ul>
 
 # Algumas das tecnologias que utilizo:
 
-![Frontend](https://skillicons.dev/icons?i=figma,html,css,sass,bootstrap,tailwind,js,typescript,react,mysql,postman,selenium,gherkin)
+![Frontend](https://skillicons.dev/icons?i=figma,html,css,js,typescript,react,postman,mysql)
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=ts,python)
+![Frontend](https://skillicons.dev/icons?i=python,ts)
 
 <br>
 
