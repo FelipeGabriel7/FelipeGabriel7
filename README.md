@@ -28,19 +28,20 @@ Olá Maninho(a)! Seja bem vindo(a) ao meu perfil! <img src="https://c.tenor.com/
 <h5> Desenvolvedor | Analista de QA </h5>
 <h5> Graduando em Sistemas de Informação</h5>
 <ul>
-  <li> Possuo habilidades em desenvolvimento front-end utilizando: html,css, javascript e react além disso melhorando minhas habilidades em front-end com Angular. possuo proeficiência em UI design e desenvolvimento front-end, com habilidades sólidas em criar interfaces intuitivas,responsivas e com boa usabilidade. </li>
-  <li>  Possuo habilidades em testes manuais, exploratórios, performance, regressão, gestão de testes e incidentes, documentação, report de bugs, arquitetura de sistemas, BDD/TDD, e automação de testes utilizando robot framework e postman, além de coleta de requisitos e analíse de sistemas.</li>
-  <li>  Estou explorando C# e .NET para back-end e Python para automação e desenvolvimento web.</li>
-  <li> Tenho interesse em computação aplicada a bioinformática, algoritmos genéticos e automação de testes</li>
+  <li> Habilidades em desenvolvimento front-end utilizando: html,css, javascript e react além disso melhorando minhas habilidades em front-end com Angular. </li>
+  <li> Proeficiência em UI design e desenvolvimento front-end, com habilidades sólidas em criar interfaces intuitivas,responsivas e com boa usabilidade. </li>
+  <li> Habilidades em testes manuais, exploratórios, performance, gestão de testes e incidentes, documentação, report de bugs, e automação de testes utilizando robot framework e postman.</li>
+  <li> Estou explorando C# e .NET para back-end e Python para IA.</li>
+  <li> Tenho interesse em computação aplicada a bioinformática com algoritmos genéticos, utomação de testes e desenvolvimento de software</li>
 </ul>
 
-# Algumas das tecnologias que utilizo:
+# Algumas das tecnologias e ferramentas que utilizo:
 
-![Frontend](https://skillicons.dev/icons?i=figma,html,css,js,typescript,react,postman,mysql)
+![Frontend](https://skillicons.dev/icons?i=figma,html,css,bootstrap,jquery,js,typescript,react,postman,mysql)
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=python,ts,cs)
+![Frontend](https://skillicons.dev/icons?i=ts,py,cs)
 
 <br>
 
