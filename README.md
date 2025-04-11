@@ -25,7 +25,7 @@ Olá Maninho(a)! Seja bem vindo(a) ao meu perfil! <img src="https://c.tenor.com/
 
 # Sobre mim
 
-<h5> Desenvolvedor | Analista de QA </h5>
+<h5> Desenvolvedor Web | Analista de QA </h5>
 <h5> Graduando em Sistemas de Informação</h5>
 <ul>
   <li> Habilidades em desenvolvimento front-end utilizando: html,css, javascript e react além disso melhorando minhas habilidades em front-end com Angular. </li>
