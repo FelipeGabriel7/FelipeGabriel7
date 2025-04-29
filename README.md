@@ -35,11 +35,11 @@ Olá Maninho(a)! Seja bem vindo(a) ao meu perfil! <img src="https://c.tenor.com/
 
 # Algumas das tecnologias e ferramentas que utilizo:
 
-![Frontend](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,typescript,react,postman,mysql)
+![Frontend](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,react,postman,mysql)
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=php,ts,py)
+![Frontend](https://skillicons.dev/icons?i=angular,ts,php,py)
 
 <br>
 
