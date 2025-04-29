@@ -26,7 +26,7 @@ Olá Maninho(a)! Seja bem vindo(a) ao meu perfil! <img src="https://c.tenor.com/
 # Sobre mim
 
 <h5> Desenvolvedor Web | Analista de QA </h5>
-<h5> Graduando em Sistemas de Informação</h5>
+<h5> Graduando em Sistemas de Informação e Técnico em Informática</h5>
 <ul>
   <li> Conhecimento em desenvolvimento front-end utilizando: html,css, javascript e react além disso melhorando minhas habilidades em front-end com Angular. Possuo proeficiência em UI design e front-end, com habilidades sólidas em criar interfaces intuitivas,responsivas e com boa usabilidade. </li>
   <li> Habilidades em testes manuais, exploratórios, performance, gestão de testes e incidentes, documentação, report de bugs, e automação de testes utilizando robot framework e postman.</li>
