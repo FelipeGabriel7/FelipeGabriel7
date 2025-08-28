@@ -25,21 +25,23 @@ Olá Maninho(a)! Seja bem vindo(a) ao meu perfil! <img src="https://c.tenor.com/
 
 # Sobre mim
 
-<h5> Desenvolvedor Web | Analista de QA </h5>
-<h5> Graduando em Sistemas de Informação e Técnico em Informática</h5>
+<h5>SDET | Analista de QA | Automação de Testes</h5>
+<h5>Graduando em Sistemas de Informação | Técnico em Informática</h5>
 <ul>
-  <li> Conhecimento em desenvolvimento front-end utilizando: html,css, javascript e melhorando minhas habilidades em front-end com Angular. Possuo proeficiência em UI design e front-end, com habilidades sólidas em criar interfaces intuitivas,responsivas e com boa usabilidade. </li>
-  <li> Habilidades em testes manuais, exploratórios, performance, gestão de testes e incidentes, documentação, report de bugs, e automação de testes utilizando robot framework e postman.</li>
-  <li> Estou explorando PHP para back-end e Python para IA e Automação. Tenho interesse em computação aplicada a bioinformática com algoritmos genéticos, automação de testes e desenvolvimento de software full-stack. </li>
+  <li>Experiência em testes manuais, exploratórios, de performance e regressão, com foco em qualidade de software e documentação detalhada de bugs e incidentes.</li>
+  <li>Automação de testes utilizando Robot Framework, Postman, e conhecimentos em Python para scripts de testes e automação de processos.</li>
+  <li>Conhecimentos sólidos em desenvolvimento front-end (HTML, CSS, JavaScript, Jquery, Angular) para testes de interface e usabilidade, garantindo aplicações responsivas e funcionais.</li>
+  <li>Explorando PHP e Python para back-end. Aprendendo mais sobre IA e automação avançada de testes. </li> 
+  <li> Tenho Interesse em integração contínua, pipelines de QA e desenvolvimento full-stack orientado à qualidade.</li>
 </ul>
 
 # Algumas das tecnologias e ferramentas que utilizo:
 
-![Frontend](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,ts,angular,py,php,postman,mysql,sqlite)
+![Frontend](https://skillicons.dev/icons?i=figma,html,css,bootstrap,jquery,js,ts,py,php,postman,mysql,sqlite)
 
 # Atualmente estou estudando as seguintes tecnologias
 
-![Frontend](https://skillicons.dev/icons?i=angular,ts,php,py)
+![Frontend](https://skillicons.dev/icons?i=angular,vue,py,php)
 
 <br>
 
