@@ -30,14 +30,14 @@ Olá Maninho(a)! Seja bem vindo(a) ao meu perfil! <img src="https://c.tenor.com/
 <ul>
   <li>Experiência em testes manuais, exploratórios, de performance e regressão, com foco em qualidade de software e documentação detalhada de bugs e incidentes.</li>
   <li>Automação de testes utilizando Robot Framework, Postman, e conhecimentos em Python para scripts de testes e automação de processos.</li>
-  <li>Conhecimentos sólidos em desenvolvimento front-end (HTML, CSS, JavaScript, Jquery, React.js) para criação de interfaces e testes de usabilidade, garantindo aplicações responsivas e funcionais. Aprimorando minhas habilidades em Angular</li>
+  <li>Conhecimentos sólidos em desenvolvimento front-end (HTML, CSS, JavaScript, Jquery) para criação de interfaces e testes de usabilidade, garantindo aplicações responsivas e funcionais. Aprimorando minhas habilidades em Angular</li>
   <li>Explorando PHP para back-end. Aprendendo mais sobre IA e automação avançada de testes utilizando Python. </li> 
   <li> Tenho Interesse em QA e desenvolvimento full-stack orientado à qualidade.</li>
 </ul>
 
 # Algumas das tecnologias e ferramentas que utilizo:
 
-![Frontend](https://skillicons.dev/icons?i=figma,html,css,bootstrap,jquery,js,ts,react,py,php,postman,mysql,sqlite)
+![Frontend](https://skillicons.dev/icons?i=figma,html,css,bootstrap,jquery,js,ts,py,php,mysql,postman)
 
 # Atualmente estou estudando as seguintes tecnologias
 
