@@ -14,7 +14,7 @@ Graduando em **Sistemas de Informação** | Técnico em **Informática**
 - Automação de testes com **Cypress**, **Robot Framework**, **Postman** e **Python**.  
 - Desenvolvimento **Full Stack** com foco em **Angular, React, Laravel e Node.js**.  
 - Conhecimentos sólidos em **bancos de dados: SQL Server, MySQL, SQLite**.  
-- Experiência com **CI/CD** usando **GitHub Actions, Azure DevOps**.  
+- Experiência com **CI/CD** usando **GitHub Actions**.  
 
 ---
 
