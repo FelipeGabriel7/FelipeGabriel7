@@ -11,10 +11,10 @@
 Graduando em **Sistemas de Informação** | Técnico em **Informática**
 
 - Experiência em **testes manuais, exploratórios, regressão e performance**, com foco em qualidade e documentação.  
-- Automação de testes com **Cypress**, **Selenium**, **Robot Framework**, **Postman** e **Python**.  
-- Desenvolvimento **Full Stack** com foco em **Angular, React, Next.js, Laravel e Node.js**.  
-- Conhecimentos sólidos em **bancos de dados: SQL Server, MySQL, SQLite e Firebase**.  
-- Experiência com **CI/CD** usando **GitHub Actions, Azure DevOps e GCP**.  
+- Automação de testes com **Cypress**, **Robot Framework**, **Postman** e **Python**.  
+- Desenvolvimento **Full Stack** com foco em **Angular, React, Laravel e Node.js**.  
+- Conhecimentos sólidos em **bancos de dados: SQL Server, MySQL, SQLite**.  
+- Experiência com **CI/CD** usando **GitHub Actions, Azure DevOps**.  
 
 ---
 
@@ -59,17 +59,14 @@ Graduando em **Sistemas de Informação** | Técnico em **Informática**
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
 
----
-
-### 🌐 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gabriel-dev/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipegabfd@gmail.com)
 
 ---
-
 
 <div align="center">
 
-📘 _Construindo minha carreira como **SDET** e **Full Stack Engineer**, unindo desenvolvimento e qualidade._
+📘 Construindo minha carreira como **SDET** e **Full Stack Engineer**, unindo desenvolvimento e qualidade.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gabriel-dev/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipegabfd@gmail.com)
 
 </div>
