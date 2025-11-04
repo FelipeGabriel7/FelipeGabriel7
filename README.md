@@ -31,11 +31,8 @@ Graduando em **Sistemas de Informação** | Técnico em **Informática**
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Sass](https://img.shields.io/badge/Sass-black?style=flat&logo=sass&logoColor=white)](https://getbootstrap.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![JQuery](https://img.shields.io/badge/JQuery-blue?style=flat&logo=jquery&logoColor=white)](https://getbootstrap.com/)
 [![React](https://img.shields.io/badge/React-06B6D5?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/Angular-FF2D20?style=flat&logo=Angular&logoColor=white)](https://reactjs.org/)
 
 
 ### ⚙️ Back-end
