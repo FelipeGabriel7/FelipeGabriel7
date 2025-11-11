@@ -11,7 +11,7 @@
 Graduando em **Sistemas de Informação** | Técnico em **Informática**
 
 - Experiência em **testes manuais, exploratórios, regressão e performance**, com foco em qualidade e documentação.  
-- Automação de testes com **Cypress* e **Postman**.  
+- Automação de testes com **Cypress** e **Postman**.  
 - Desenvolvimento **Full Stack** com foco em **React, Laravel e Node.js**.  
 - Conhecimentos sólidos em bancos de dados: **SQL Server, MySQL, SQLite**.  
 - Experiência com **CI/CD** usando **GitHub Actions**.  
