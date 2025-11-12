@@ -10,9 +10,9 @@
 **Full Stack Developer | SDET | QA Engineer**  
 Graduando em **Sistemas de Informação** | Técnico em **Informática**
 
-- Experiência em **testes manuais, exploratórios, regressão e performance**, com foco em qualidade e documentação.  
-- Automação de testes com **Cypress** e **Postman**.  
-- Desenvolvimento **Full Stack** com foco em **React, Laravel e Node.js**.  
+- Experiência em **testes manuais, exploratórios, regressão, segurança, carga e performance**, com foco em qualidade e documentação.  
+- Automação de testes com **Cypress**, **Postman** e scripts em **Python**.  
+- Desenvolvimento **Full Stack** com foco em **React, Vue.js, Laravel e Express.js**.  
 - Conhecimentos sólidos em bancos de dados: **SQL Server, MySQL, SQLite**.  
 - Experiência com **CI/CD** usando **GitHub Actions**.  
 
@@ -33,22 +33,22 @@ Graduando em **Sistemas de Informação** | Técnico em **Informática**
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-06B6D5?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![Vue](https://img.shields.io/badge/Vue.js-black?style=flat&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 
 
 ### ⚙️ Back-end
 [![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 
 ### 🗄️ Banco de Dados
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=mssqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 ### 🧪 Testes
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+
 
 ### ⚙️ CI/CD
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
