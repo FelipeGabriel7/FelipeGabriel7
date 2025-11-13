@@ -7,13 +7,13 @@
 
 ## 👨‍💻 Sobre mim
 
-**Full Stack Developer | SDET | QA Engineer**  
+**Full Stack Developer | SDET | QA**  
 Graduando em **Sistemas de Informação** | Técnico em **Informática**
 
 - Experiência em **testes manuais, exploratórios, regressão, segurança, carga e performance**, com foco em qualidade e documentação.  
 - Automação de testes com **Cypress**, **Postman** e scripts em **Python**.  
 - Desenvolvimento **Full Stack** com foco em **React, Vue.js, Laravel e Express.js**.  
-- Conhecimentos sólidos em bancos de dados: **SQL Server, MySQL, SQLite**.  
+- Conhecimentos sólidos em bancos de dados: **SQL Server, MySQL**.  
 - Experiência com **CI/CD** usando **GitHub Actions**.  
 
 ---
@@ -24,7 +24,6 @@ Graduando em **Sistemas de Informação** | Técnico em **Informática**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F07416?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php&logoColor=white)](https://www.php.net/)
-[![Python](https://img.shields.io/badge/Python-2798AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 ### 🎨 Front-end & Design
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -44,12 +43,14 @@ Graduando em **Sistemas de Informação** | Técnico em **Informática**
 ### 🧪 Testes
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Python](https://img.shields.io/badge/Python-2798AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 
 ### ⚙️ CI/CD
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Python](https://img.shields.io/badge/Python-2798AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 
 
