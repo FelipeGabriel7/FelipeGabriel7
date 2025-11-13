@@ -27,8 +27,14 @@ Graduando em **Sistemas de Informação** | Técnico em **Informática**
 
 ### 🎨 Front-end & Design
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-06B6D5?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-[![Vue](https://img.shields.io/badge/Vue.js-black?style=flat&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+
 
 
 ### ⚙️ Back-end
