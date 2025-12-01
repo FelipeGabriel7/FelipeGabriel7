@@ -9,8 +9,8 @@
 Graduando em **Sistemas de Informação** | Técnico em **Informática**
 
 * Experiência em **testes manuais, exploratórios, regressão, segurança, carga e performance**, com foco em qualidade e documentação.
-* Automação de testes com **Cypress**, **Postman**, **Robot Framework** e scripts em **Python**.
-* Desenvolvimento **Full Stack** com foco em **React, Vue.js, Laravel e Express.js**.
+* Automação de testes com **Cypress**, **Postman**, **Playwright** e scripts em **Python**.
+* Desenvolvimento **Full Stack** com foco em **Vue.js, Laravel**.
 * Conhecimentos sólidos em **SQL Server** e **MySQL**.
 * Experiência com **CI/CD** usando **GitHub Actions** e **Azure DevOps**.
 
@@ -21,7 +21,6 @@ Graduando em **Sistemas de Informação** | Técnico em **Informática**
 ### 📝 Linguagens
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F07416?style=flat\&logo=javascript\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-purple?style=flat\&logo=php\&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-2798AB?style=flat\&logo=python\&logoColor=white)](https://www.python.org/)
 
@@ -31,13 +30,14 @@ Graduando em **Sistemas de Informação** | Técnico em **Informática**
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
-[![React](https://img.shields.io/badge/React-06B6D5?style=flat\&logo=react\&logoColor=white)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat\&logo=vuedotjs\&logoColor=4FC08D)](https://vuejs.org/)
+
 
 ### ⚙️ Back-end
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)](https://laravel.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)](https://expressjs.com/)
+[![PHP](https://img.shields.io/badge/PHP-purple?style=flat\&logo=php\&logoColor=white)](https://www.php.net/)
 
 ### 🗄️ Banco de Dados
 
@@ -46,10 +46,10 @@ Graduando em **Sistemas de Informação** | Técnico em **Informática**
 
 ### 🧪 Testes
 
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat\&logo=cypress\&logoColor=white)](https://www.cypress.io/)
-[![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat\&logo=robotframework\&logoColor=white)](https://robotframework.org/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)](https://www.postman.com/)
-[![k6](https://img.shields.io/badge/k6-7D64FF?style=flat\&logo=k6\&logoColor=white)](https://k6.io/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)](https://k6.io/)
 
 ### ⚙️ CI/CD
 
