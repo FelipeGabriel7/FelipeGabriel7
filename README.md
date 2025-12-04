@@ -1,18 +1,15 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabriel7\&layout=compact\&theme=react)
-![Stats](https://github-readme-stats.vercel.app/api?username=FelipeGabriel7\&show_icons=true\&hide_title=true\&theme=react\&count_private=true)
-
 ---
 
 ## 👨‍💻 Sobre mim
 
-**Full Stack Developer | SDET | QA**
-Graduando em **Sistemas de Informação** | Técnico em **Informática**
+**QA Automation | QA | QE | SDET |**
+Graduado em **Sistemas de Informação***
 
 * Experiência em **testes manuais, exploratórios, regressão, segurança, carga e performance**, com foco em qualidade e documentação.
-* Automação de testes com **Cypress**, **Postman**, **Playwright** e scripts em **Python**.
+* Automação de testes com **Cypress**, **Postman**, **Playwright**, **Robot** e scripts em **Python**.
 * Desenvolvimento **Full Stack** com foco em **Vue.js, Laravel**.
 * Conhecimentos sólidos em **SQL Server** e **MySQL**.
-* Experiência com **CI/CD** usando **GitHub Actions** e **Azure DevOps**.
+* Experiência com **CI/CD** usando **GitHub Actions**.
 
 ---
 
