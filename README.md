@@ -22,16 +22,13 @@ Tenho experiência em **desenvolvimento orientado à qualidade** com **Vue.js, B
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Robot Framework](https://img.shields.io/badge/Robot-DA0037?style=for-the-badge&logo=robotframework&logoColor=white)](https://robotframework.org/)
 [![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)](https://k6.io/)
-[![Cucumber](https://img.shields.io/badge/Cucumber-6DB33F?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/)
-[![BDD](https://img.shields.io/badge/BDD-Cucumber-6DB33F?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/)
+
 
 
 ### 💻 Front-end & Back-end
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/9.x/blade)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 
 ### 🗄️ Banco de Dados
