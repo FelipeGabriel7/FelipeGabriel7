@@ -3,7 +3,7 @@
 
 Profissional focado em **Qualidade de Software e Automação de Testes**, com experiência em **testes manuais, funcionais, regressão, performance e segurança**, garantindo **estabilidade, confiabilidade e alto padrão de qualidade**.
 
-Atuo com **automação de testes** utilizando **Cypress, Playwright, Postman, Robot Framewor e Selenium**, aplicando **CI/CD** para acelerar entregas, reduzir riscos e aumentar a cobertura de testes.
+Atuo com **automação de testes** utilizando **Cypress, Playwright, Postman, Robot Framework e Selenium**, aplicando **CI/CD** para acelerar entregas, reduzir riscos e aumentar a cobertura de testes.
 
 Tenho experiência em **desenvolvimento orientado à qualidade** com **Vue.js, Angular, Laravel e PHP**, aplicando conhecimentos de **fullstack e bancos de dados (SQL Server/MySQL)** para criar testes mais robustos e soluções eficientes. Também atuo na criação e manutenção de **pipelines de integração/entrega contínua** com **GitHub Actions e Azure DevOps**.
 
