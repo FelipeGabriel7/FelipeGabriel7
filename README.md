@@ -5,7 +5,7 @@ Profissional focado em **Qualidade de Software e Automação de Testes**, com ex
 
 Atuo com **automação de testes** utilizando **Cypress, Playwright, Postman, Robot Framework e Selenium**, aplicando **CI/CD** para acelerar entregas, reduzir riscos e aumentar a cobertura de testes.
 
-Tenho experiência em **desenvolvimento orientado à qualidade** com **Vue.js, Angular, Laravel e PHP**, aplicando conhecimentos de **fullstack e bancos de dados (SQL Server/MySQL)** para criar testes mais robustos e soluções eficientes. Também atuo na criação e manutenção de **pipelines de integração/entrega contínua** com **GitHub Actions e Azure DevOps**.
+Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, Laravel e PHP**, aplicando conhecimentos de **fullstack e bancos de dados (SQL Server/MySQL)** para criar testes mais robustos e soluções eficientes. Também atuo na criação e manutenção de **pipelines de integração/entrega contínua** com **GitHub Actions e Azure DevOps**.
 
 ---
 
@@ -34,7 +34,6 @@ Tenho experiência em **desenvolvimento orientado à qualidade** com **Vue.js, A
 
 
 ### 💻 Front-end & Back-end
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
