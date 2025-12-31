@@ -5,7 +5,7 @@ Profissional focado em **Qualidade de Software e Automação de Testes**, com ex
 
 Atuo com **automação de testes** utilizando **Cypress, Playwright, Postman, Robot Framework e Selenium**, aplicando **CI/CD** para acelerar entregas, reduzir riscos e aumentar a cobertura de testes.
 
-Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, Laravel e PHP**, aplicando conhecimentos de **fullstack e bancos de dados** para criar testes mais robustos e soluções eficientes. Também atuo na criação e manutenção de **pipelines de integração/entrega contínua** com **GitHub Actions e Azure DevOps**.
+Tenho experiência em **desenvolvimento orientado à qualidade** com **Vue, Laravel e PHP**, aplicando conhecimentos de **fullstack e bancos de dados** para criar testes mais robustos e soluções eficientes. Também atuo na criação e manutenção de **pipelines de integração/entrega contínua** com **GitHub Actions e Azure DevOps**.
 
 ---
 
@@ -20,14 +20,13 @@ Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, 
 ### 🧪 Testing & Automation
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge&logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 💻 Fullstack
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
 ### 💻 Database
