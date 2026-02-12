@@ -3,9 +3,9 @@
 
 Profissional focado em **Qualidade de Software e Automação de Testes**, com experiência em **testes manuais, funcionais, regressão, API, performance e segurança**, garantindo **estabilidade, confiabilidade e alto padrão de qualidade**.
 
-Atuo no desenvolvimento de **estratégias de qualidade e automação de testes** utilizando **Cypress, Playwright (API e E2E), Jest (Supertest), Postman e k6**, aplicando **CI/CD** para acelerar entregas, reduzir riscos e aumentar a cobertura de testes.
+Atuo no desenvolvimento de **estratégias de qualidade e automação de testes** utilizando **Cypress, Playwright (API e E2E), Postman e k6**, aplicando **CI/CD** para acelerar entregas, reduzir riscos e aumentar a cobertura de testes.
 
-Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, Laravel e Node.js**, utilizando **JavaScript, TypeScript e PHP**, aplicando conhecimentos de **fullstack e bancos de dados** para criar testes mais robustos e soluções eficientes. Também atuo na criação e manutenção de **pipelines CI/CD** com **GitHub Actions e Azure DevOps**.
+Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, Laravel, PHP e Node.js**, aplicando conhecimentos de **fullstack e bancos de dados** para criar testes mais robustos e soluções eficientes. Também atuo na criação e manutenção de **pipelines CI/CD** com **GitHub Actions e Azure DevOps**.
 
 ---
 
@@ -22,13 +22,14 @@ Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, 
 ![Playwright](https://img.shields.io/badge/Playwright-2F3A4A?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-2F3A4A?style=for-the-badge&logo=postman&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-2F3A4A?style=for-the-badge&logo=k6&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-2F3A4A?style=for-the-badge&logo=jest&logoColor=white)
 
 
 ### 💻 Fullstack
 ![Angular](https://img.shields.io/badge/Angular-2F3A4A?style=for-the-badge&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-2F3A4A?style=for-the-badge&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-2F3A4A?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2F3A4A?style=for-the-badge&logo=node.js&logoColor=white)
+
+
 
 
 ### 🗄️ Database
@@ -41,6 +42,8 @@ Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, 
 ![GitHub](https://img.shields.io/badge/GitHub-2F3A4A?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2F3A4A?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2F3A4A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-2F3A4A?style=for-the-badge&logo=azuredevops&logoColor=white)
+
 
 
 ---
