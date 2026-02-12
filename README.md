@@ -5,7 +5,7 @@ Profissional focado em **Qualidade de Software e Automação de Testes**, com ex
 
 Atuo no desenvolvimento de **estratégias de qualidade e automação de testes** utilizando **Cypress, Playwright (API e E2E), Postman e k6**, aplicando **CI/CD** para acelerar entregas, reduzir riscos e aumentar a cobertura de testes.
 
-Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, Laravel, PHP e Node.js**, aplicando conhecimentos de **fullstack e bancos de dados** para criar testes mais robustos e soluções eficientes. Também atuo na criação e manutenção de **pipelines CI/CD** com **GitHub Actions e Azure DevOps**.
+Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, Laravel**, aplicando conhecimentos de **fullstack e bancos de dados** para criar testes mais robustos e soluções eficientes. Também atuo na criação e manutenção de **pipelines CI/CD** com **GitHub Actions e Azure DevOps**.
 
 ---
 
@@ -14,23 +14,22 @@ Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, 
 ### 📝 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-2F3A4A?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2F3A4A?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2F3A4A?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-2F3A4A?style=for-the-badge&logo=php&logoColor=white)
 
 
 ### 🧪 Testing & Automation
 ![Cypress](https://img.shields.io/badge/Cypress-2F3A4A?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2F3A4A?style=for-the-badge&logo=playwright&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-2F3A4A?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-2F3A4A?style=for-the-badge&logo=postman&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-2F3A4A?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-2F3A4A?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
 
 
 ### 💻 Fullstack
 ![Angular](https://img.shields.io/badge/Angular-2F3A4A?style=for-the-badge&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-2F3A4A?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-2F3A4A?style=for-the-badge&logo=node.js&logoColor=white)
-
-
 
 
 ### 🗄️ Database
