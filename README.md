@@ -14,6 +14,7 @@ Tenho experiência em **desenvolvimento orientado à qualidade** com **Angular, 
 ### 📝 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-2F3A4A?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2F3A4A?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2F3A4A?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-2F3A4A?style=for-the-badge&logo=php&logoColor=white)
 
 
