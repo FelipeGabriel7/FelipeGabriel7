@@ -36,7 +36,7 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 
 ![Cypress](https://img.shields.io/badge/Cypress-0F172A?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-![Selenium](https://img.shields.io/badge/Selenium-0F172A?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-0F172A?style=for-the-badge&logo=robotframework&logoColor=FF6600)
 ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![k6](https://img.shields.io/badge/k6-0F172A?style=for-the-badge&logo=k6&logoColor=7D64FF)
 
