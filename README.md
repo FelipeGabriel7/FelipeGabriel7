@@ -2,25 +2,28 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=250&color=00FF88&center=true&vCenter=true&width=950&lines=%3E_+initializing...;%3E_+whoami;Felipe+Gabriel;%3E_+loading+role...;QA+Automation+Engineer+%7C+SDET;%3E_+loading+focus...;Testing+%7C+Fullstack+%7C+Security;%3E_+status:+ready" />
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:00FF88&height=2&section=header" width="80%" />
+
 </div>
+
+## 👨‍💻 Sobre mim
 
 Profissional especializado em **Qualidade de Software, Automação de Testes e Engenharia de Qualidade**, com foco em garantir **confiabilidade, performance e segurança**.
 
----
-
-- Automação de testes E2E, API e performance  
-- Foco em qualidade, segurança e confiabilidade  
-- Experiência com CI/CD e pipelines automatizados
-- Mentalidade fullstack para testes mais robustos  
+- Automação de testes **E2E, API e performance**
+- Foco em **qualidade, segurança e confiabilidade**
+- Experiência com **CI/CD e pipelines automatizados**
+- Mentalidade **fullstack** para testes mais robustos
 
 <br/>
 
-
 ## Tecnologias e Ferramentas
 
-<details open>
-<summary> <b>Languages</b></summary>
-
+<details>
+<summary><b>Languages</b></summary>
+<br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -30,7 +33,7 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 </details>
 
 <details>
-<summary> <b>Testing & Automation</b></summary>
+<summary><b>Testing & Automation</b></summary>
 <br>
 
 ![Cypress](https://img.shields.io/badge/Cypress-0F172A?style=for-the-badge&logo=cypress&logoColor=white)
@@ -43,9 +46,8 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 
 </details>
 
-
 <details>
-<summary> <b>Fullstack (Quality-Oriented)</b></summary>
+<summary><b>Fullstack (Quality-Oriented)</b></summary>
 <br>
 
 ![Angular](https://img.shields.io/badge/Angular-0F172A?style=for-the-badge&logo=angular&logoColor=DD0031)
@@ -56,7 +58,7 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 </details>
 
 <details>
-<summary> <b>Database</b></summary>
+<summary><b>Database</b></summary>
 <br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -65,7 +67,7 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 </details>
 
 <details>
-<summary> <b>CI/CD & DevOps</b></summary>
+<summary><b>CI/CD & DevOps</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
@@ -75,19 +77,3 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </details>
-
-<br/>
-
-## Contato
-
-<div align="start">
-
-<a href="mailto:felipegabfd@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://www.linkedin.com/in/felipe-gabriel-qa" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-</div>
