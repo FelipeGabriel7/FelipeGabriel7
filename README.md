@@ -15,7 +15,7 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 - Automação de testes **E2E, API e performance**
 - Foco em **qualidade, segurança e confiabilidade**
 - Experiência com **CI/CD e pipelines automatizados**
-- Mentalidade **fullstack** para testes mais robustos
+- Habilidade **fullstack** para construção de testes e sistemas
 
 ## Tecnologias e Ferramentas
 
