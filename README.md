@@ -17,8 +17,6 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 - Experiência com **CI/CD e pipelines automatizados**
 - Mentalidade **fullstack** para testes mais robustos
 
-<br/>
-
 ## Tecnologias e Ferramentas
 
 <details>
