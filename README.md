@@ -47,7 +47,6 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 <br>
 
 ![Angular](https://img.shields.io/badge/Angular-0F172A?style=for-the-badge&logo=angular&logoColor=DD0031)
-![Vue.js](https://img.shields.io/badge/Vue.js-0F172A?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933)
 
