@@ -57,6 +57,7 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 </details>
 
