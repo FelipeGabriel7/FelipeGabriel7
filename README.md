@@ -25,8 +25,8 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
 
 </details>
 
@@ -41,6 +41,7 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 ![Bruno API](https://img.shields.io/badge/Bruno_API-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![k6](https://img.shields.io/badge/k6-0F172A?style=for-the-badge&logo=k6&logoColor=7D64FF)
 ![Artillery](https://img.shields.io/badge/Artillery-0F172A?style=for-the-badge&logo=artillery&logoColor=white)
+
 </details>
 
 <details>
@@ -49,7 +50,7 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
   
 ![Vue.js](https://img.shields.io/badge/Vue.js-0F172A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF)
 
 </details>
 
