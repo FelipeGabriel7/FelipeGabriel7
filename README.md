@@ -25,6 +25,7 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
 
 </details>
@@ -71,6 +72,5 @@ Profissional especializado em **Qualidade de Software, Automação de Testes e E
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0F172A?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 
 </details>
