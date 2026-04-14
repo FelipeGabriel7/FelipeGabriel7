@@ -55,7 +55,7 @@ Também possuo conhecimento em **fullstack**, atuando na construção e evoluç�
 </details>
 
 <details>
-<summary><b>Fullstack & Backend</b></summary>
+<summary><b>Fullstack </b></summary>
 <br>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
