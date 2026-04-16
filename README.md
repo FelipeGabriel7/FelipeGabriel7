@@ -75,6 +75,7 @@ Também possuo conhecimento em **fullstack**, atuando na construção e evoluç�
 
 <details>
 <summary><b>Fullstack </b></summary>
+<br>
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-0F172A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-0F172A?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0)
