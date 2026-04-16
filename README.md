@@ -32,7 +32,6 @@ Também possuo conhecimento em **fullstack**, atuando na construção e evoluç�
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 
 </details>
 
@@ -42,7 +41,6 @@ Também possuo conhecimento em **fullstack**, atuando na construção e evoluç�
 ### Testes E2E
 ![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33)
 ![Cypress](https://img.shields.io/badge/Cypress-0F172A?style=for-the-badge&logo=cypress&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-0F172A?style=for-the-badge&logo=robotframework&logoColor=FF6600)
 
 ### Testes de API
 ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
@@ -53,17 +51,6 @@ Também possuo conhecimento em **fullstack**, atuando na construção e evoluç�
 ![JMeter](https://img.shields.io/badge/JMeter-0F172A?style=for-the-badge&logo=apache&logoColor=white)
 
 </details>
-
-<details>
-<summary><b>Fullstack </b></summary>
-<br>
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Vue.js](https://img.shields.io/badge/Vue.js-0F172A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-
-</details>
-
 <details>
 <summary><b>Banco de Dados</b></summary>
 <br>
@@ -83,3 +70,14 @@ Também possuo conhecimento em **fullstack**, atuando na construção e evoluç�
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </details>
+
+
+<details>
+<summary><b>Fullstack </b></summary>
+<br>
+
+![Vue.js](https://img.shields.io/badge/Vue.js-0F172A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+
+</details>
+
