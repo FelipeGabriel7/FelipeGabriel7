@@ -18,8 +18,7 @@ Tenho experiência com:
 - Testes manuais (**funcionais, exploratórios e regressão**) em cenários críticos
 - Integração de testes em **pipelines CI/CD**
 - Práticas de **DevOps e AppSec aplicadas à qualidade de software**
-
-Também possuo conhecimento em **fullstack**, atuando na construção e evolução de sistemas orientados à qualidade.
+- Também possuo conhecimento em desenvolvimento fullstack (Laravel, Node.js e Angular), aplicando esses conceitos na construção de testes mais robustos e integração com o ciclo de desenvolvimento.
 
 ---
 
@@ -31,7 +30,6 @@ Também possuo conhecimento em **fullstack**, atuando na construção e evoluç�
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
 
 </details>
@@ -58,6 +56,7 @@ Também possuo conhecimento em **fullstack**, atuando na construção e evoluç�
 
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 </details>
 
@@ -68,6 +67,7 @@ Também possuo conhecimento em **fullstack**, atuando na construção e evoluç�
 ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0F172A?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </details>
@@ -77,9 +77,10 @@ Também possuo conhecimento em **fullstack**, atuando na construção e evoluç�
 <summary><b>Fullstack </b></summary>
 <br>
 
-![Alpine.js](https://img.shields.io/badge/Alpine.js-0F172A?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Angular](https://img.shields.io/badge/Angular-0F172A?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-
 
 </details>
 
