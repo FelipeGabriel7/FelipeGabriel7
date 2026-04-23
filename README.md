@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=250&color=00FF88&center=true&vCenter=true&width=950&lines=%3E_+initializing...;%3E_+whoami;Felipe+Gabriel;%3E_+loading+role...;QA+Engineer+%7C+SDET+%7C+DevOps;%3E_+loading+focus...;Testes+%7C+Fullstack+%7C+AppSec;%3E_+status:+ready" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=250&color=00FF88&center=true&vCenter=true&width=950&lines=Felipe+Gabriel;QA+%7C+SDET;Automation+%7C+Performance+%7C+DevOps" />
 
 <br/>
 
