@@ -18,7 +18,7 @@ Tenho experiência com:
 - Testes manuais (**funcionais, exploratórios e regressão**) em cenários críticos
 - Integração de testes em **pipelines CI/CD**
 - Práticas de **DevOps e AppSec aplicadas à qualidade de software**
-- Também possuo conhecimento em desenvolvimento fullstack (Laravel, Node.js e Angular), aplicando esses conceitos na construção de testes mais robustos e integração com o ciclo de desenvolvimento.
+- Também possuo conhecimento em desenvolvimento fullstack (Laravel e Angular), aplicando esses conceitos na construção de testes mais robustos e integração com o ciclo de desenvolvimento.
 
 ---
 
@@ -40,7 +40,6 @@ Tenho experiência com:
 ### Testes E2E
 ![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33)
 ![Cypress](https://img.shields.io/badge/Cypress-0F172A?style=for-the-badge&logo=cypress&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-0F172A?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### Testes de API
 ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
@@ -48,7 +47,7 @@ Tenho experiência com:
 
 ### Testes de Performance
 ![k6](https://img.shields.io/badge/k6-0F172A?style=for-the-badge&logo=k6&logoColor=7D64FF)
-![JMeter](https://img.shields.io/badge/JMeter-0F172A?style=for-the-badge&logo=apache&logoColor=white)
+![Artillery](https://img.shields.io/badge/Artillery-0F172A?style=for-the-badge&logo=javascript&logoColor=white)
 
 </details>
 <details>
@@ -57,7 +56,6 @@ Tenho experiência com:
 
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 </details>
 
@@ -80,7 +78,6 @@ Tenho experiência com:
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Angular](https://img.shields.io/badge/Angular-0F172A?style=for-the-badge&logo=angular&logoColor=DD0031)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 
 </details>
