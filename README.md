@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=250&color=00FF88&center=true&vCenter=true&width=950&lines=Felipe+Gabriel;QA+%7C+SDET;Automation+%7C+Performance+%7C+DevOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=250&color=00FF88&center=true&vCenter=true&width=950&lines=Felipe+Gabriel;QA+Engineer+%7C+SDET;QA+%7C+Automation+%7C+Performance+%7C+DevOps" />
 
 <br/>
 
