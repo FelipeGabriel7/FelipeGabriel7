@@ -40,6 +40,7 @@ Tenho experiência com:
 ### Testes E2E
 ![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33)
 ![Cypress](https://img.shields.io/badge/Cypress-0F172A?style=for-the-badge&logo=cypress&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-0F172A?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### Testes de API
 ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
