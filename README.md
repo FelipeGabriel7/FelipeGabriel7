@@ -67,7 +67,6 @@ Tenho experiência com:
 ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0F172A?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </details>
