@@ -41,6 +41,7 @@ Tenho experiência com:
 ### Testes E2E
 ![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33)
 ![Cypress](https://img.shields.io/badge/Cypress-0F172A?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-0F172A?style=for-the-badge&logo=selenium&logoColor=43B02A)
 
 ### Testes de API
 ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
@@ -48,7 +49,7 @@ Tenho experiência com:
 
 ### Testes de Performance
 ![k6](https://img.shields.io/badge/k6-0F172A?style=for-the-badge&logo=k6&logoColor=7D64FF)
-![Artillery](https://img.shields.io/badge/Artillery-0F172A?style=for-the-badge&logo=javascript&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-0F172A?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
 
 </details>
 <details>
