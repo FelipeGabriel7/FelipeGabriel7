@@ -14,36 +14,25 @@ Atuo na definição de estratégias de testes, automação e validação contín
 Trabalho integrando QA, desenvolvimento e DevOps para garantir entregas mais seguras, previsíveis e escaláveis ao longo de todo o ciclo de desenvolvimento.
 
 
-## 🧪 Quality Engineering
+## Automação (E2E, API, Performance e Devops)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=2EAD33"/>
   <img src="https://img.shields.io/badge/Cypress-0f172a?style=flat-square&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Robot_Framework-0f172a?style=flat-square&logo=robotframework&logoColor=white"/>
-</p>
-
-
-## ⚙️ Engenharia & DevOps
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032"/>
+    <img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=2088FF"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0f172a?style=flat-square&logo=azuredevops&logoColor=0078D7"/>
   <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED"/>
-</p>
-
-## 🔌 API & Performance
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=FF6C37"/>
+   <img src="https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=FF6C37"/>
   <img src="https://img.shields.io/badge/Bruno-0f172a?style=flat-square"/>
   <img src="https://img.shields.io/badge/k6-0f172a?style=flat-square&logo=k6&logoColor=7D64FF"/>
   <img src="https://img.shields.io/badge/JMeter-0f172a?style=flat-square&logo=apachejmeter&logoColor=D22128"/>
 </p>
 
 
-## 💻 Tecnologias & Banco de Dados
+## Tecnologias & Banco de Dados
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
