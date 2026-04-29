@@ -19,7 +19,6 @@ Trabalho integrando QA, desenvolvimento e DevOps para garantir entregas mais seg
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=2EAD33"/>
   <img src="https://img.shields.io/badge/Cypress-0f172a?style=flat-square&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-0f172a?style=flat-square&logo=selenium&logoColor=43B02A"/>
   <img src="https://img.shields.io/badge/Robot_Framework-0f172a?style=flat-square&logo=robotframework&logoColor=white"/>
 </p>
 
