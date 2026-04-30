@@ -20,7 +20,7 @@ Trabalho integrando QA, desenvolvimento e DevOps para garantir entregas mais seg
   <br>
   <p align="left">
     <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB"/>
+    <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6"/>
     <img src="https://img.shields.io/badge/PHP-0f172a?style=flat-square&logo=php&logoColor=777BB4"/>
   </p>
 </details>
@@ -32,7 +32,6 @@ Trabalho integrando QA, desenvolvimento e DevOps para garantir entregas mais seg
   <p align="left">
     <img src="https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=2EAD33"/>
     <img src="https://img.shields.io/badge/Cypress-0f172a?style=flat-square&logo=cypress&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Robot_Framework-0f172a?style=flat-square&logo=robotframework&logoColor=white"/>
   </p>
 </details>
 
@@ -40,8 +39,9 @@ Trabalho integrando QA, desenvolvimento e DevOps para garantir entregas mais seg
   <summary> Testes de API</summary>
   <br>
   <p align="left">
-    <img src="https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=FF6C37"/>
-    <img src="https://img.shields.io/badge/Bruno-0f172a?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=FF6C37"/>
+      <img src="https://img.shields.io/badge/Bruno-0f172a?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=2EAD33"/>
   </p>
 </details>
 
@@ -80,7 +80,7 @@ Trabalho integrando QA, desenvolvimento e DevOps para garantir entregas mais seg
   <br>
   <p align="left">
     <img src="https://img.shields.io/badge/Angular-0f172a?style=flat-square&logo=angular&logoColor=DD0031"/>
-    <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
     <img src="https://img.shields.io/badge/Laravel-0f172a?style=flat-square&logo=laravel&logoColor=FF2D20"/>
+    <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js&logoColor=339933"/>
   </p>
 </details>
