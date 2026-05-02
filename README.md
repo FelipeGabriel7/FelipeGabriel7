@@ -81,6 +81,5 @@ Trabalho integrando QA, desenvolvimento e DevOps para garantir entregas mais seg
   <p align="left">
     <img src="https://img.shields.io/badge/Angular-0f172a?style=flat-square&logo=angular&logoColor=DD0031"/>
     <img src="https://img.shields.io/badge/Laravel-0f172a?style=flat-square&logo=laravel&logoColor=FF2D20"/>
-    <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js&logoColor=339933"/>
   </p>
 </details>
