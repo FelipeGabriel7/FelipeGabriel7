@@ -24,7 +24,6 @@ Conecto QA, desenvolvimento e DevOps para **reduzir falhas em produção e aumen
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Appium-00B4AB?style=for-the-badge&logo=appium&logoColor=fff"/>
@@ -40,8 +39,5 @@ Conecto QA, desenvolvimento e DevOps para **reduzir falhas em produção e aumen
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff"/>
-
 </p>
 
