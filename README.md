@@ -1,85 +1,53 @@
-<div align="left">
-
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=250&color=00FF88&center=true&vCenter=true&width=950&lines=%3E_+initializing...;%3E_+QA+Engineering+Mode;%3E_+SDET+%7C+DevOps+%7C+Quality+Systems;%3E_+focus:+reliability+%26+automation;%3E_+status:+active" /> <br/>
-
+<div align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=300&color=00FF88&center=true&vCenter=true&width=800&lines=SDET+%7C+QA+Engineer+%7C+DevOps;Automation+%7C+Reliability+%7C+Quality+Engineering" /> 
 </div>
 
+---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre
 
-Sou QA Engineer / SDET com foco em engenharia de qualidade aplicada a sistemas críticos, modernização de plataformas e migração de sistemas legados.
+QA Engineer / SDET focado em **automação, confiabilidade e qualidade de software**.
 
-Atuo na definição de estratégias de testes, automação e validação contínua de software, com foco em confiabilidade, performance e redução de riscos em produção.
+Experiência em sistemas **Web, Mobile, APIs e ambientes legados**, atuando na modernização de plataformas e melhoria contínua com visão end-to-end da qualidade.
 
-Trabalho integrando QA, desenvolvimento e DevOps para garantir entregas mais seguras, previsíveis e escaláveis ao longo de todo o ciclo de desenvolvimento.
+Atuação em:
+- Automação E2E e testes de API  
+- Testes de performance e confiabilidade  
+- Integração de testes em pipelines CI/CD  
+- Estratégias de qualidade orientadas a risco  
 
-## Stack
+Conecto QA, desenvolvimento e DevOps para **reduzir falhas em produção e aumentar a previsibilidade das entregas**.
 
-<details>
-  <summary> Linguagens</summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6"/>
-    <img src="https://img.shields.io/badge/PHP-0f172a?style=flat-square&logo=php&logoColor=777BB4"/>
-  </p>
-</details>
+---
+<p>
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff"/>
 
-<details>
-  <summary> Testes E2E</summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=2EAD33"/>
-    <img src="https://img.shields.io/badge/Cypress-0f172a?style=flat-square&logo=cypress&logoColor=white"/>
-  </p>
-</details>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Appium-00B4AB?style=for-the-badge&logo=appium&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge"/>
 
-<details>
-  <summary> Testes de API</summary>
-  <br>
-  <p align="left">
-      <img src="https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=FF6C37"/>
-      <img src="https://img.shields.io/badge/Bruno-0f172a?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=2EAD33"/>
-  </p>
-</details>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=fff"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=fff"/>
 
-<details>
-  <summary> Performance</summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/k6-0f172a?style=flat-square&logo=k6&logoColor=7D64FF"/>
-    <img src="https://img.shields.io/badge/JMeter-0f172a?style=flat-square&logo=apachejmeter&logoColor=D22128"/>
-  </p>
-</details>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=fff"/>
 
-<details>
-  <summary> DevOps & CI/CD</summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032"/>
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=2088FF"/>
-    <img src="https://img.shields.io/badge/Azure_DevOps-0f172a?style=flat-square&logo=azuredevops&logoColor=0078D7"/>
-    <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED"/>
-  </p>
-</details>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
 
-<details>
-  <summary> Banco de Dados</summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1"/>
-    <img src="https://img.shields.io/badge/SQL_Server-0f172a?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/>
-  </p>
-</details>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff"/>
 
-<details>
-  <summary> Desenvolvimento </summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Angular-0f172a?style=flat-square&logo=angular&logoColor=DD0031"/>
-    <img src="https://img.shields.io/badge/Laravel-0f172a?style=flat-square&logo=laravel&logoColor=FF2D20"/>
-  </p>
-</details>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+
+</p>
+
