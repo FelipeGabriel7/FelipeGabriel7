@@ -34,6 +34,7 @@ const felipe = {
     "Testes de API",
     "Testes de Performance e Carga",
     "Pipelines de CI/CD",
+    "Devops, Observabilidade e Monitoramento",
     "Estratégia de Testes e Engenharia de Qualidade"
   ],
 
@@ -46,6 +47,7 @@ const felipe = {
 ### QA & Gestão de Testes
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
