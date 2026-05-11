@@ -26,7 +26,7 @@
 
 ```ts
 const felipe = {
-  role: "SDET | QA Engineer | DevOps",
+  role: "QA Engineer | DevOps",
   foco: "Automação, confiabilidade e qualidade de software",
 
   especialidades: [
