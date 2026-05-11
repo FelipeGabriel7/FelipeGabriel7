@@ -30,11 +30,12 @@ const felipe = {
   foco: "Automação, confiabilidade e qualidade de software",
 
   especialidades: [
-    "Automação E2E Web & Mobile",
+    "Testes Manuais e Funcionais",
+    "Automação E2E Web, API, Mobile",
     "Testes de API",
     "Testes de Performance e Carga",
     "Pipelines de CI/CD",
-    "Devops, Observabilidade e Monitoramento",
+    "Devops, DevSecOps, Observabilidade, Segurança",
     "Estratégia de Testes e Engenharia de Qualidade"
   ],
 
