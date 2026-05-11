@@ -32,10 +32,8 @@ const felipe = {
   especialidades: [
     "Testes Manuais e Funcionais",
     "Automação E2E Web, API, Mobile",
-    "Testes de API",
-    "Testes de Performance e Carga",
-    "Pipelines de CI/CD",
-    "Devops, DevSecOps, Observabilidade, Segurança",
+    "Testes de API, Performance, Carga"
+    "Devops & DevSecOps,  Observabilidade, Segurança",
     "Estratégia de Testes e Engenharia de Qualidade"
   ],
 
