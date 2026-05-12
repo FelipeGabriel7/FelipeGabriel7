@@ -33,7 +33,7 @@ const felipe = {
     "Testes Manuais e Funcionais",
     "Automação E2E Web, API, Mobile",
     "Testes de API, Performance, Carga"
-    "Devops & DevSecOps,  Observabilidade, Segurança",
+    "Devops & DevSecOps, Observabilidade",
     "Estratégia de Testes e Engenharia de Qualidade"
   ],
 
@@ -70,7 +70,8 @@ const felipe = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### Banco de Dados
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
