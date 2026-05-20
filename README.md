@@ -57,7 +57,6 @@ const felipe = {
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge)
-![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
 
 
 ### API & Performance
