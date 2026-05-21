@@ -32,8 +32,8 @@ const felipe = {
   especialidades: [
     "Testes Manuais e Funcionais",
     "Automação E2E Web, API, Mobile",
-    "Testes de API, Performance, Carga"
-    "Devops & DevSecOps, Observabilidade",
+    "Testes de API e Performance"
+    "Devops & DevSecOps aplicados a Qualidade",
     "Estratégia de Testes e Engenharia de Qualidade"
   ],
 
@@ -50,32 +50,32 @@ const felipe = {
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Automação E2E
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+### Mobile
+![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white)
 
 ### API & Performance
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-3E54A3?style=for-the-badge&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 ### DevOps & CI/CD
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
 
 ### Banco de Dados
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ---
 
