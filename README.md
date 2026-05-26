@@ -66,7 +66,6 @@ const felipe = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Artillery](https://img.shields.io/badge/Artillery-222222?style=for-the-badge&logo=artillery&logoColor=white)
 
 ### DevOps & CI/CD
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
