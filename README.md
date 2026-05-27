@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00C9FF&height=240&section=header&text=Felipe%20Gabriel&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%7C%20QA%20Engineer%20%7C%20DevOps&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00C9FF&height=240&section=header&text=Felipe%20Gabriel&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%7C%20QA%20Engineer%20%7C%20QA%20Automation%20Engineer&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1800&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=QA+Engineer+%7C+DevOps;Automação+E2E+%7C+API+%7C+Mobile;CI%2FCD+%7C+Automação+de+Testes+%7C+Confiabilidade" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1800&pause=800&color=00C9FF&center=true&vCenter=true&width=900&lines=SDET+%7C+QA+Engineer+%7C+QA+Automation+Engineer;Automação+E2E+%7C+API+%7C+Mobile;CI%2FCD+%7C+Qualidade+de+Software+%7C+Confiabilidade" />
 </div>
 
 ---
@@ -26,14 +26,14 @@
 
 ```ts
 const felipe = {
-  role: "QA Engineer | DevOps",
+  role: "SDET | QA Engineer | QA Automation Engineer",
   foco: "Automação, confiabilidade e qualidade de software",
 
   especialidades: [
     "Testes Manuais e Funcionais",
-    "Automação E2E Web, API, Mobile",
-    "Testes de API e Performance"
-    "Devops & DevSecOps aplicados a Qualidade",
+    "Automação E2E Web, API e Mobile",
+    "Testes de API e Performance",
+    "CI/CD aplicado à Qualidade",
     "Estratégia de Testes e Engenharia de Qualidade"
   ],
 
