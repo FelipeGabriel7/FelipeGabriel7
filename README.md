@@ -61,10 +61,13 @@ const felipe = {
 ### Mobile
 ![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white)
 
-### API & Performance
+### Testes de API
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+
+### Performance
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 ### DevOps & CI/CD
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
