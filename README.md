@@ -49,9 +49,9 @@ const felipe = {
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ### Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### Automação E2E
@@ -63,11 +63,12 @@ const felipe = {
 
 ### Testes de API
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge) 
+![PactumJS](https://img.shields.io/badge/PactumJS-222222?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Performance
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Artillery](https://img.shields.io/badge/Artillery-222222?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### DevOps & CI/CD
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
