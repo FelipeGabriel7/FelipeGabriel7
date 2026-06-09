@@ -54,12 +54,16 @@ const felipe = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Automação E2E
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge\&logo=robotframework\&logoColor=white)
 
 ### Mobile
-![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white)
+
+![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge\&logo=android\&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge\&logo=appium\&logoColor=white)
 
 ### Testes de API
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
