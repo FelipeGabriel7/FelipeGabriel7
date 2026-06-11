@@ -20,24 +20,41 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k4dWJ0aW5mM2N6b3R1Y2FqZXN0b3Z0d3d0b2N6N3V1ZzV6a3F6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k4dWJ0aW5mM2N6b3R1Y2FqZXN0b3Z0d3d0b2N6N3V1ZzV6a3F6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 
 ```ts
 const felipe = {
-  role: "SDET | QA Engineer | QA Automation Engineer",
-  foco: "Automação, confiabilidade e qualidade de software",
+  role: "QA Engineer | SDET",
 
-  especialidades: [
-    "Testes Manuais e Funcionais",
-    "Automação E2E Web, API e Mobile",
-    "Testes de API e Performance",
-    "CI/CD aplicado à Qualidade",
-    "Estratégia de Testes e Engenharia de Qualidade"
+  foco: [
+    "Qualidade de Software",
+    "Automação de Testes",
+    "Confiabilidade",
+    "CI/CD",
+    "DevOps"
   ],
 
-  objetivo: "Melhorar a confiabilidade do software e a velocidade de entrega 🚀"
+  especialidades: [
+    "Testes Manuais e Exploratórios",
+    "Automação E2E Web",
+    "Automação Mobile",
+    "Testes de API",
+    "Testes de Performance",
+    "Integração Contínua e Qualidade Contínua"
+  ],
+
+  stack: {
+    linguagens: ["JavaScript", "TypeScript", "Python"],
+    e2e: ["Playwright", "Cypress", "Robot Framework"],
+    mobile: ["Maestro", "Appium"],
+    api: ["PactumJS", "Playwright API", "Supertest", "Postman", "Bruno"],
+    performance: ["k6", "Artillery"]
+  },
+
+  objetivo:
+    "Construir software confiável através de testes, automação e engenharia de qualidade"
 }
 ```
 
@@ -55,11 +72,14 @@ const felipe = {
 
 ### Automação E2E
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### Mobile
+
 ![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
 
 ### Testes de API
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
