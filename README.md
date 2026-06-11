@@ -85,6 +85,7 @@ const felipe = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Bruno](https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge) 
 ![PactumJS](https://img.shields.io/badge/PactumJS-222222?style=for-the-badge&logo=javascript&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-222222?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 ### Performance
