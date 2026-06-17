@@ -49,8 +49,9 @@ const felipe = {
     linguagens: ["JavaScript", "TypeScript", "Python"],
     e2e: ["Playwright", "Cypress"],
     mobile: ["Maestro"],
-    api: ["PactumJS", "Supertest", "Postman", "Bruno"],
-    performance: ["k6", "Artillery"]
+    api: ["PactumJS", "Postman", "Bruno"],
+    performance: ["k6", "Artillery"],
+    database: ["SQL Server", "MySQL", "MongoDB"]
   },
 
   objetivo:
