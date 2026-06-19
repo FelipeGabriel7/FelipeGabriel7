@@ -46,13 +46,14 @@ const felipe = {
   ],
 
   stack: {
-    linguagens: ["JavaScript", "TypeScript", "Python", "PHP"],
-    e2e: ["Playwright", "Cypress"],
-    mobile: ["Maestro"],
-    api: ["PactumJS", "Postman", "Bruno"],
-    performance: ["k6", "Artillery"],
-    database: ["SQL Server", "MySQL", "MongoDB"]
-  },
+     linguagens: ["JavaScript", "TypeScript", "Python", "PHP"],
+      e2e: ["Playwright", "Cypress"],
+      mobile: ["Maestro"],
+      api: ["PactumJS", "Postman", "Bruno"],
+      performance: ["k6", "Artillery"],
+      database: ["SQL Server", "MySQL", "MongoDB"],
+      desenvolvimento: ["Vue.js", "Laravel", "Node.js"],
+ }
 
   objetivo:
     "Construir software confiável através de testes, automação e engenharia de qualidade"
@@ -101,7 +102,12 @@ const felipe = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Desenvolvimento
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+<br/>
 
 
 <div align="center">
