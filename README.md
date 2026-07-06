@@ -46,13 +46,12 @@ const felipe = {
   ],
 
   stack: {
-     linguagens: ["JavaScript", "TypeScript", "PHP"],
+     linguagens: ["JavaScript", "TypeScript"],
       e2e: ["Playwright", "Cypress"],
       mobile: ["Maestro"],
       api: ["PactumJS", "Postman", "Bruno"],
       performance: ["k6", "Artillery"],
-      database: ["SQL Server", "MySQL", "MongoDB"],
-      desenvolvimento: ["Vue.js", "Laravel", "Node.js"],
+      database: ["SQL Server", "MySQL", "MongoDB"]
  }
 
   objetivo:
@@ -70,7 +69,6 @@ const felipe = {
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Automação E2E
 
@@ -84,7 +82,6 @@ const felipe = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Bruno](https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge) 
 ![PactumJS](https://img.shields.io/badge/PactumJS-222222?style=for-the-badge&logo=javascript&logoColor=white)
-
 
 ### Performance
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
@@ -101,10 +98,6 @@ const felipe = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Desenvolvimento
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br/>
 
