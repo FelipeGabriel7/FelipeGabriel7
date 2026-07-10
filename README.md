@@ -46,7 +46,7 @@ const felipe = {
   ],
 
 stack: {
-  linguagens: ["JavaScript", "TypeScript", "Python", "PHP"],
+  linguagens: ["JavaScript", "TypeScript", "Python"],
   e2e: ["Playwright", "Cypress", "Selenium"],
   mobile: ["Maestro"],
   api: ["Postman", "PactumJS", "Pytest"],
