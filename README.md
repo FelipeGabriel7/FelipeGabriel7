@@ -46,7 +46,7 @@ const felipe = {
   ],
 
  stack: {
-  linguagens: ["JavaScript", "TypeScript", "Python", "PHP"],
+  linguagens: ["JavaScript", "TypeScript", "PHP"],
   e2e: ["Playwright", "Cypress", "Selenium"],
   mobile: ["Maestro"],
   api: ["Postman", "Bruno", "PactumJS", "Pytest"],
@@ -70,14 +70,13 @@ const felipe = {
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Automação E2E
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 
 ### Mobile
 ![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white)
@@ -86,7 +85,6 @@ const felipe = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Bruno](https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge) 
 ![PactumJS](https://img.shields.io/badge/PactumJS-222222?style=for-the-badge&logo=javascript&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### Performance
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
