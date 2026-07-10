@@ -47,9 +47,9 @@ const felipe = {
 
  stack: {
   linguagens: ["JavaScript", "TypeScript", "PHP"],
-  e2e: ["Playwright", "Cypress", "Selenium"],
+  e2e: ["Playwright", "Cypress"],
   mobile: ["Maestro"],
-  api: ["Postman", "Bruno", "PactumJS", "Pytest"],
+  api: ["Postman", "Bruno", "PactumJS"],
   performance: ["k6", "Artillery"],
   ci/cd: ["GitHub Actions", "Azure DevOps", "Docker"],
   database: ["SQL Server", "MySQL", "MongoDB"]
