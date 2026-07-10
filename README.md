@@ -49,7 +49,7 @@ const felipe = {
   linguagens: ["JavaScript", "TypeScript", "PHP"],
   e2e: ["Playwright", "Cypress"],
   mobile: ["Maestro"],
-  api: ["Postman", "Bruno", "PactumJS"],
+  api: ["Postman", "PactumJS"],
   performance: ["k6", "Artillery"],
   ci/cd: ["GitHub Actions", "Azure DevOps", "Docker"],
   database: ["SQL Server", "MySQL", "MongoDB"]
@@ -83,7 +83,6 @@ const felipe = {
 
 ### Testes de API
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Bruno](https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge) 
 ![PactumJS](https://img.shields.io/badge/PactumJS-222222?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Performance
