@@ -45,14 +45,23 @@ const felipe = {
     "Integração Contínua e Qualidade Contínua"
   ],
 
-stack: {
-  linguagens: ["JavaScript", "TypeScript", "Python"],
-  e2e & mobile: ["Playwright", "Cypress", "Robot Framework", "Maestro"],
-  api: ["Postman", "PactumJS"],
-  performance: ["k6", "Artillery"],
-  ci/cd: ["GitHub Actions", "Azure DevOps", "Docker"],
-  database: ["SQL Server", "MySQL", "MongoDB"]
-}
+  stack: {
+    languages: ["JavaScript", "TypeScript", "Python"],
+  
+    automation: {
+      web: ["Playwright", "Cypress", "Robot Framework"],
+      mobile: ["Maestro"],
+      api: ["PactumJS", "Postman"],
+      performance: ["k6", "Artillery"]
+    },
+  
+    devops: {
+      ci_cd: ["GitHub Actions", "Azure DevOps"],
+      containers: ["Docker"]
+    },
+  
+    databases: ["SQL Server", "MySQL", "MongoDB"]
+  }
 
   objetivo:
     "Construir software confiável através de testes, automação e engenharia de qualidade"
