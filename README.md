@@ -19,57 +19,6 @@
 </div>
 
 ---
-
-## 👨‍💻 Sobre
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k4dWJ0aW5mM2N6b3R1Y2FqZXN0b3Z0d3d0b2N6N3V1ZzV6a3F6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
-
-```ts
-const felipe = {
-  role: "QA Engineer | SDET",
-
-  foco: [
-    "Qualidade de Software",
-    "Automação de Testes",
-    "Confiabilidade",
-    "CI/CD",
-    "DevOps"
-  ],
-
-  especialidades: [
-    "Testes Manuais e Exploratórios",
-    "Automação E2E Web",
-    "Automação Mobile",
-    "Testes de API",
-    "Testes de Performance",
-    "Integração Contínua e Qualidade Contínua"
-  ],
-
-  stack: {
-    languages: ["JavaScript", "TypeScript", "Python"],
-  
-    automation: {
-      web: ["Playwright", "Cypress", "Robot Framework"],
-      mobile: ["Maestro"],
-      api: ["PactumJS", "Postman"],
-      performance: ["k6", "Artillery"]
-    },
-  
-    devops: {
-      ci_cd: ["GitHub Actions", "Azure DevOps"],
-      containers: ["Docker"]
-    },
-  
-    databases: ["SQL Server", "MySQL", "MongoDB"]
-  }
-
-  objetivo:
-    "Construir software confiável através de testes, automação e engenharia de qualidade"
-}
-```
-
-## Stack
-
 ### QA & Gestão de Testes
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
