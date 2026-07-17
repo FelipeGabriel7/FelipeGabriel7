@@ -47,7 +47,7 @@ const felipe = {
 
 stack: {
   linguagens: ["JavaScript", "TypeScript", "Python"],
-  e2e & mobile: ["Playwright", "Cypress", "Maestro"],
+  e2e & mobile: ["Playwright", "Cypress", "Robot Framework", "Maestro"],
   api: ["Postman", "PactumJS"],
   performance: ["k6", "Artillery"],
   ci/cd: ["GitHub Actions", "Azure DevOps", "Docker"],
@@ -74,6 +74,7 @@ stack: {
 ### Automação E2E & Mobile
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Maestro](https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white)
 
 ### Testes de API
