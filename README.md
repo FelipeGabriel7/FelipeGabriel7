@@ -16,7 +16,7 @@
 
 QA Engineer focado em garantir a qualidade de aplicações web e APIs por meio de testes manuais e automatizados. Atuo desde a análise de requisitos e estratégia de testes até a automação, validação de APIs, testes de performance e integração contínua (CI/CD).
 
-Meu foco é evoluir em Quality Engineering, Arquitetura de Testes e QAOps, aplicando práticas de Observabilidade, Segurança de Aplicações e AI-Assisted Testing para tornar os processos de qualidade mais eficientes e confiáveis.
+Meu foco é evoluir em Quality Engineering, Arquitetura de Testes e QAOps, aplicando práticas de Segurança de Aplicações e AI-Assisted Testing para tornar os processos de qualidade mais eficientes e confiáveis.
 
 ---
 
@@ -34,7 +34,6 @@ Meu foco é evoluir em Quality Engineering, Arquitetura de Testes e QAOps, aplic
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -47,7 +46,6 @@ Meu foco é evoluir em Quality Engineering, Arquitetura de Testes e QAOps, aplic
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
