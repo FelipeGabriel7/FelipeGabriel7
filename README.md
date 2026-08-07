@@ -14,7 +14,7 @@
 
 Sobre mim
 
-Sou **QA Engineer** com experiência em testes manuais e automatizados para aplicações **Web, Mobile, Performance e APIs**.
+Sou **QA Analyst** com experiência em testes manuais e automatizados para aplicações **Web, Mobile, Performance e APIs**.
 
 Atuo em todo o ciclo de qualidade de software, desde a análise de requisitos e planejamento de testes até a automação, testes de APIs, testes de performance e integração em pipelines **CI/CD**, contribuindo para a evolução de aplicações modernas e sistemas legados por meio de práticas de **Shift-Left Testing**.
 
