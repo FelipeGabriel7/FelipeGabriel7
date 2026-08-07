@@ -14,7 +14,7 @@
 
 Sobre mim
 
-Sou **QA Engineer** com experiência em testes manuais e automatizados para aplicações **Web, Mobile e APIs**.
+Sou **QA Engineer** com experiência em testes manuais e automatizados para aplicações **Web, Performance e APIs**.
 
 Atuo em todo o ciclo de qualidade de software, desde a análise de requisitos e planejamento de testes até a automação, testes de APIs, testes de performance e integração em pipelines **CI/CD**, contribuindo para a evolução de aplicações modernas e sistemas legados por meio de práticas de **Shift-Left Testing**.
 
@@ -40,13 +40,14 @@ Tecnologias
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/PactumJS-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
 <img src="https://img.shields.io/badge/Artillery-222222?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Testing-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_Judge-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
