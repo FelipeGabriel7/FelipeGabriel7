@@ -14,7 +14,7 @@
 
 Sobre mim
 
-Sou **QA Analyst** com experiência em testes manuais e automatizados para aplicações **Web, Mobile, Performance e APIs**.
+Sou **QA Analyst** com experiência em testes manuais e automatizados para **Web, Performance e APIs**.
 
 Atuo em todo o ciclo de qualidade de software, desde a análise de requisitos e planejamento de testes até a automação, testes de APIs, testes de performance e integração em pipelines **CI/CD**, contribuindo para a evolução de aplicações modernas e sistemas legados por meio de práticas de **Shift-Left Testing**.
 
@@ -39,7 +39,6 @@ Acredito que qualidade é uma responsabilidade compartilhada e deve ser constru�
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maestro-1A1A1A?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
