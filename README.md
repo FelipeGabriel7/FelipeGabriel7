@@ -45,7 +45,7 @@ Acredito que qualidade Ã© uma responsabilidade compartilhada e deve ser construÃ
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/SuperTest-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
-<img src="https://img.shields.io/badge/JMeter-222222?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artillery-222222?style=for-the-badge&logo=artillery&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Testing-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLM_Judge-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
