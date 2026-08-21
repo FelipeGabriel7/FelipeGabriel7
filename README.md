@@ -32,7 +32,6 @@ Acredito que qualidade Ã© uma responsabilidade compartilhada e deve ser construÃ
 
 ---
 
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -40,10 +39,10 @@ Acredito que qualidade Ã© uma responsabilidade compartilhada e deve ser construÃ
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/SuperTest-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
 <img src="https://img.shields.io/badge/Artillery-222222?style=for-the-badge&logo=artillery&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Testing-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -57,14 +56,13 @@ Acredito que qualidade Ã© uma responsabilidade compartilhada e deve ser construÃ
 
 </p>
 
-
 ---
+
 <div align="center">
 
- **"Insanidade Ã© continuar fazendo sempre a mesma coisa e esperar resultados diferentes."** - *Albert Eisten* 
+**"Insanidade Ã© continuar fazendo sempre a mesma coisa e esperar resultados diferentes."** - *Albert Einstein*
 
 </div>
-
 
 ---
 
