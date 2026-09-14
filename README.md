@@ -18,7 +18,7 @@ Sou **QA Engineer** com experiência em testes manuais e automatizados para apli
 
 Atuo ao longo do ciclo de qualidade de software, desde a **análise de requisitos, definição de cenários e planejamento de testes** até a execução, automação e integração dos testes em pipelines **CI/CD**, aplicando práticas de **BDD/Gherkin e Shift-Left Testing**.
 
-Minha atuação técnica envolve **automação Web e de APIs, testes de performance, validação de dados e CI/CD**, utilizando tecnologias como **Playwright, Cypress, Postman, Bruno, k6, Artillery, SQL Server, MySQL, Docker, GitHub Actions e Azure DevOps**.
+Minha atuação técnica envolve **automação Web e de APIs, testes de performance, validação de dados e CI/CD**, utilizando tecnologias como **Playwright, Cypress, Postman, K6, SQL Server, MySQL, Docker, GitHub Actions e Azure DevOps**.
 
 Também direciono meus estudos para **Engenharia de Qualidade e Inteligência Artificial aplicada à Qualidade**, aprofundando conhecimentos em práticas e tecnologias voltadas à **qualidade, confiabilidade e evolução de software**, incluindo a validação e avaliação de aplicações baseadas em IA.
 
