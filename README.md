@@ -11,18 +11,13 @@
 </div>
 
 ---
-
 ## Sobre mim
 
-Sou **QA Engineer** com experiência em testes manuais e automatizados para aplicações **Web, Mobile, APIs e Performance**, atuando na validação e evolução de sistemas modernos e legados.
+Sou **QA Engineer**, com experiência em testes manuais e automatizados para aplicações Web, APIs e sistemas legados.
 
-Atuo ao longo do ciclo de qualidade de software, desde a **análise de requisitos, definição de cenários e planejamento de testes** até a execução, automação e integração dos testes em pipelines **CI/CD**, aplicando práticas de **BDD/Gherkin e Shift-Left Testing**.
+Atuo com planejamento e execução de testes, automação, validação de dados e integração em pipelines **CI/CD**, aplicando práticas de BDD/Gherkin e Shift-Left Testing.
 
-Minha atuação técnica envolve **automação Web e de APIs, testes de performance, validação de dados e CI/CD**, utilizando tecnologias como **Playwright, Cypress, Postman, K6, SQL Server, MySQL, Docker, GitHub Actions e Azure DevOps**.
-
-Também direciono meus estudos para **Engenharia de Qualidade e Inteligência Artificial aplicada à Qualidade**, aprofundando conhecimentos em práticas e tecnologias voltadas à **qualidade, confiabilidade e evolução de software**, incluindo a validação e avaliação de aplicações baseadas em IA.
-
-Acredito que qualidade deve ser construída ao longo de todo o ciclo de desenvolvimento, combinando **engenharia, automação e estratégia** para contribuir com produtos de software mais confiáveis e sustentáveis.
+Aprofundo meus conhecimentos em **Engenharia de Software, Engenharia de Qualidade e IA aplicada a QA**, buscando desenvolver soluções de teste confiáveis e eficientes.
 
 ---
 
@@ -40,8 +35,6 @@ Acredito que qualidade deve ser construída ao longo de todo o ciclo de desenvol
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
 <!-- Test Automation -->
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
