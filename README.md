@@ -38,6 +38,7 @@ Aprofundo meus conhecimentos em **Engenharia de Software, Engenharia de Qualidad
 <!-- Test Automation -->
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
 <img src="https://img.shields.io/badge/BDD%2FGherkin-5C2D91?style=for-the-badge"/>
