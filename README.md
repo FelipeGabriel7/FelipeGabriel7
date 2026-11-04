@@ -19,7 +19,7 @@ Sou **QA Engineer**, com experiência em Engenharia de Qualidade (Quality Engine
 
 Minha atuação é orientada à **qualidade ao longo de todo o ciclo de desenvolvimento de software**, abrangendo definição de estratégias de testes, análise de riscos e arquitetura de automação. Aplico padrões de projeto e boas práticas de engenharia para desenvolver soluções de testes escaláveis, reutilizáveis e sustentáveis.
 
-Tenho foco em **automação de testes E2E e APIs com Playwright**, além de práticas de integração contínua e testes de performance. Também possuo experiência com **Cypress e Robot Framework**, complementando minha atuação com conhecimentos em **IA aplicada à qualidade (LLM Evaluation) e segurança de aplicações (AppSec/DevSecOps)**.
+Tenho foco em **automação de testes E2E e APIs com Playwright**, além de práticas de integração contínua e testes de performance. Também possuo experiência com **Robot Framework**, complementando minha atuação com conhecimentos em **IA aplicada à qualidade (LLM Evaluation) e segurança de aplicações (AppSec/DevSecOps)**.
 
 ---
 
@@ -44,7 +44,6 @@ Tenho foco em **automação de testes E2E e APIs com Playwright**, além de prá
 ### Quality Engineering & Testing
 
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=white"/>
