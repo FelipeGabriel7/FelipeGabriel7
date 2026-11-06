@@ -13,7 +13,7 @@
 
 Sou **QA Engineer**, com experiência em **Engenharia de Qualidade (Quality Engineering)**, testes manuais e automatizados, atuando na qualidade de aplicações **Web, Mobile, APIs e sistemas legados**.
 
-Minha atuação envolve **testes funcionais e exploratórios, planejamento e estratégias de testes, análise de riscos e automações E2E e APIs com Playwright e Cypress**, aplicando boas práticas de Engenharia de Software e integração de testes em pipelines **CI/CD**.
+Minha atuação envolve **testes funcionais e exploratórios, planejamento e estratégias de testes, análise de riscos e automações E2E e APIs com Playwright**, aplicando boas práticas de Engenharia de Software e integração de testes em pipelines **CI/CD**.
 
 Possuo conhecimentos complementares em desenvolvimento de software, arquitetura de soluções e segurança da informação, contribuindo para uma visão mais ampla da arquitetura, integração, confiabilidade e qualidade das aplicações.
 
