@@ -26,6 +26,7 @@ Atualmente, curso **MBA em Gestão de Projetos** e possuo certificação **Scrum
 
 </div>
 
+---
 
 <div align="center">
 
