@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-Sou **QA Engineer**, formado em **Sistemas de Informação** e pós-graduando em **Gestão de Projetos**, com experiência em testes manuais e automatizados de aplicações **Web, Mobile, APIs e sistemas legados**.
+Sou **QA Engineer**, formado em **Sistemas de Informação** e pós-graduando em **Gestão de Projetos e Engenharia de Software**, com experiência em testes manuais e automatizados de aplicações **Web, Mobile, APIs e sistemas legados**.
 
 Atuo com **Engenharia de Qualidade de Software**, abrangendo estratégias de testes, automação e **CI/CD**, aplicando boas práticas de Engenharia de Software para promover qualidade, confiabilidade e eficiência.
 
