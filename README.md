@@ -32,7 +32,6 @@ Certificação: **Scrum Foundation Professional Certificate (SFPC)**.
 <!-- Qualidade e Automação -->
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maestro-6C47FF?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bruno-F4B400?style=flat-square&logoColor=black"/>
 <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
