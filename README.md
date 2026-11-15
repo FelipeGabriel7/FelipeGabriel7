@@ -15,7 +15,7 @@ Sou **QA Engineer**, formado em **Sistemas de Informação** e pós-graduando em
 
 Busco aplicar princípios de **Engenharia de Software** à qualidade, desenvolvendo soluções de automação sustentáveis, com atenção à arquitetura de testes, manutenibilidade, confiabilidade e eficiência dos processos de desenvolvimento.
 
-Atualmente, direciono meu desenvolvimento técnico para **Quality Engineering, Arquitetura de Software e Inteligência Artificial**, explorando AI-Driven Testing, avaliação de modelos de linguagem (LLM Evaluation) e soluções baseadas em IA.
+Atualmente, direciono meu desenvolvimento técnico para **Quality Engineering e Inteligência Artificial**, explorando AI-Driven Testing, avaliação de modelos de linguagem (LLM Evaluation) e soluções baseadas em IA.
 
 **Certificação:** Scrum Foundation Professional Certificate (SFPC).
 
