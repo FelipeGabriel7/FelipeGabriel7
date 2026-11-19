@@ -37,7 +37,6 @@ Atuo com estratégias de testes, análise de riscos e automação, aplicando pr�
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4B400?style=flat-square&logoColor=black)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
