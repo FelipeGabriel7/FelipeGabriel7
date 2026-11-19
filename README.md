@@ -32,23 +32,20 @@ Atuo com estratégias de testes, análise de riscos e automação, aplicando pr�
 
 ### Tecnologias
 
-**Qualidade de Software e Automação de Testes**
-
-![Playwright](https://img.shields.io/badge/Playwright-1C1C1C?style=flat-square&logo=playwright&logoColor=2EAD33)
-![Cypress](https://img.shields.io/badge/Cypress-1C1C1C?style=flat-square&logo=cypress&logoColor=69D3A7)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-1C1C1C?style=flat-square&logo=robotframework&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-1C1C1C?style=flat-square&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-1C1C1C?style=flat-square&logo=postman&logoColor=FF6C37)
-![Bruno](https://img.shields.io/badge/Bruno-1C1C1C?style=flat-square&logoColor=F4B400)
-![k6](https://img.shields.io/badge/k6-1C1C1C?style=flat-square&logo=k6&logoColor=7D64FF)
-
-**Linguagens e Desenvolvimento de Software**
+**Linguagens**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=3776AB)
-![React](https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-1C1C1C?style=flat-square&logo=express&logoColor=white)
+
+
+**Qualidade de Software e Automação de Testes**
+
+![Playwright](https://img.shields.io/badge/Playwright-1C1C1C?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Cypress](https://img.shields.io/badge/Cypress-1C1C1C?style=flat-square&logo=cypress&logoColor=69D3A7)
+![Postman](https://img.shields.io/badge/Postman-1C1C1C?style=flat-square&logo=postman&logoColor=FF6C37)
+![Bruno](https://img.shields.io/badge/Bruno-1C1C1C?style=flat-square&logoColor=F4B400)
+![k6](https://img.shields.io/badge/k6-1C1C1C?style=flat-square&logo=k6&logoColor=7D64FF)
 
 **Banco de Dados e DevOps**
 
@@ -58,7 +55,7 @@ Atuo com estratégias de testes, análise de riscos e automação, aplicando pr�
 ![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=flat-square&logo=docker&logoColor=2496ED)
 
 
-**Inteligência Artificial Aplicada à Qualidade (em estudo)**
+**Inteligência Artificial Aplicada à Qualidade**
 
 ![AI-Driven Testing](https://img.shields.io/badge/AI--Driven_Testing-1C1C1C?style=flat-square&logo=openai&logoColor=10A37F)
 ![Agentic Testing](https://img.shields.io/badge/Agentic_Testing-1C1C1C?style=flat-square&logo=robotframework&logoColor=69D3A7)
