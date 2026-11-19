@@ -57,6 +57,15 @@ Atuo com estratégias de testes, análise de riscos e automação, aplicando pr�
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-1C1C1C?style=flat-square&logo=azuredevops&logoColor=0078D7)
 ![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=flat-square&logo=docker&logoColor=2496ED)
 
+
+**Inteligência Artificial Aplicada à Qualidade (em estudo)**
+
+![AI-Driven Testing](https://img.shields.io/badge/AI--Driven_Testing-1C1C1C?style=flat-square&logo=openai&logoColor=10A37F)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-1C1C1C?style=flat-square&logo=openai&logoColor=10A37F)
+![RAG](https://img.shields.io/badge/RAG-1C1C1C?style=flat-square&logo=langchain&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-1C1C1C?style=flat-square&logo=openai&logoColor=10A37F)
+
+
 </div>
 
 
