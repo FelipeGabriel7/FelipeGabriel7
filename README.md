@@ -61,8 +61,10 @@ Atuo com estratégias de testes, análise de riscos e automação, aplicando pr�
 **Inteligência Artificial Aplicada à Qualidade (em estudo)**
 
 ![AI-Driven Testing](https://img.shields.io/badge/AI--Driven_Testing-1C1C1C?style=flat-square&logo=openai&logoColor=10A37F)
+![Agentic Testing](https://img.shields.io/badge/Agentic_Testing-1C1C1C?style=flat-square&logo=robotframework&logoColor=69D3A7)
 ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-1C1C1C?style=flat-square&logo=openai&logoColor=10A37F)
 ![RAG](https://img.shields.io/badge/RAG-1C1C1C?style=flat-square&logo=langchain&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-1C1C1C?style=flat-square&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-1C1C1C?style=flat-square&logo=openai&logoColor=10A37F)
 
 
