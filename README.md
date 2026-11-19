@@ -29,6 +29,7 @@ Atuo com estratégias de testes, análise de riscos e automação, aplicando pr�
 
 <div>
 
+
 ### Tecnologias
 
 **Linguagens**
@@ -37,38 +38,44 @@ Atuo com estratégias de testes, análise de riscos e automação, aplicando pr�
 ![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=3776AB)
 
-
 **Qualidade de Software e Automação de Testes**
 
 ![Playwright](https://img.shields.io/badge/Playwright-1C1C1C?style=flat-square&logo=playwright&logoColor=2EAD33)
-![Cypress](https://img.shields.io/badge/Cypress-1C1C1C?style=flat-square&logo=cypress&logoColor=69D3A7)
 ![Postman](https://img.shields.io/badge/Postman-1C1C1C?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Bruno](https://img.shields.io/badge/Bruno-1C1C1C?style=flat-square&logoColor=F4B400)
 ![k6](https://img.shields.io/badge/k6-1C1C1C?style=flat-square&logo=k6&logoColor=7D64FF)
+![Artillery](https://img.shields.io/badge/Artillery-1C1C1C?style=flat-square&logoColor=FF5722)
+![Zod](https://img.shields.io/badge/Zod-1C1C1C?style=flat-square&logo=zod&logoColor=3E67B1)
+![Allure Report](https://img.shields.io/badge/Allure_Report-1C1C1C?style=flat-square&logoColor=FF6A00)
+
+**Desenvolvimento de Software**
+
+![React](https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1C1C1C?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![FastAPI](https://img.shields.io/badge/FastAPI-1C1C1C?style=flat-square&logo=fastapi&logoColor=009688)
 
 **Banco de Dados e DevOps**
 
-![SQL](https://img.shields.io/badge/SQL-1C1C1C?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1C1C1C?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1C1C1C?style=flat-square&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-1C1C1C?style=flat-square&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-1C1C1C?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1C1C1C?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-1C1C1C?style=flat-square&logo=azuredevops&logoColor=0078D7)
 ![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=flat-square&logo=docker&logoColor=2496ED)
 
-
 **Inteligência Artificial Aplicada à Qualidade**
 
 ![AI-Driven Testing](https://img.shields.io/badge/AI--Driven_Testing-1C1C1C?style=flat-square&logo=openai&logoColor=10A37F)
-![Agentic Testing](https://img.shields.io/badge/Agentic_Testing-1C1C1C?style=flat-square&logo=robotframework&logoColor=69D3A7)
 ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-1C1C1C?style=flat-square&logo=openai&logoColor=10A37F)
 ![RAG](https://img.shields.io/badge/RAG-1C1C1C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP Servers](https://img.shields.io/badge/MCP_Servers-1C1C1C?style=flat-square&logoColor=white)
+![AI Skills](https://img.shields.io/badge/AI_Skills-1C1C1C?style=flat-square&logo=openai&logoColor=58A6FF)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-1C1C1C?style=flat-square&logo=openai&logoColor=10A37F)
 
+---
 
 </div>
-
-
-
----
 
 <div align="center">
 
