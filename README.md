@@ -9,7 +9,7 @@
 
 Sou **QA Engineer**, formado em **Sistemas de Informação** e pós-graduando em **Engenharia de Software**, com experiência em testes Web, Mobile, APIs e sistemas legados.
 
-Atuo com estratégias de testes, análise de riscos e automação, aplicando práticas de Engenharia de Software e CI/CD. Tenho interesse em desenvolvimento, arquitetura de software e Inteligência Artificial aplicada à qualidade.
+Atuo com estratégias de testes, análise de riscos e automação, aplicando práticas de Engenharia de Software e CI/CD. Tenho interesse em arquitetura de software e Inteligência Artificial aplicada à qualidade.
 
 ---
 
@@ -22,24 +22,40 @@ Atuo com estratégias de testes, análise de riscos e automação, aplicando pr�
 | [Playwright Express](https://github.com/FelipeGabriel7/playwright-express) | Playwright, TypeScript |
 | [Cypress E2E — Swag Labs](https://github.com/FelipeGabriel7/cypress-e2e-swag-labs) | Cypress, BDD, Allure, CI/CD |
 | [Robot Framework E2E](https://github.com/FelipeGabriel7/robot_test_E2E) | Robot Framework |
-| [Playwright Actions Template](https://github.com/FelipeGabriel7/playwright-actions-template) | Playwright, GitHub Actions (Fork) |
+| [Playwright Actions Template](https://github.com/FelipeGabriel7/playwright-actions-template) | Playwright, GitHub Actions |
 
 
 ---
 
-<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-F4B400?style=flat-square&logoColor=black)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<div>
+
+### Tecnologias
+
+**Qualidade de Software e Automação de Testes**
+
+![Playwright](https://img.shields.io/badge/Playwright-1C1C1C?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Cypress](https://img.shields.io/badge/Cypress-1C1C1C?style=flat-square&logo=cypress&logoColor=69D3A7)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-1C1C1C?style=flat-square&logo=robotframework&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-1C1C1C?style=flat-square&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1C1C1C?style=flat-square&logo=postman&logoColor=FF6C37)
+![Bruno](https://img.shields.io/badge/Bruno-1C1C1C?style=flat-square&logoColor=F4B400)
+![k6](https://img.shields.io/badge/k6-1C1C1C?style=flat-square&logo=k6&logoColor=7D64FF)
+
+**Linguagens e Desenvolvimento de Software**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=3776AB)
+![React](https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-1C1C1C?style=flat-square&logo=express&logoColor=white)
+
+**Banco de Dados e DevOps**
+
+![SQL](https://img.shields.io/badge/SQL-1C1C1C?style=flat-square&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1C1C1C?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-1C1C1C?style=flat-square&logo=azuredevops&logoColor=0078D7)
+![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=flat-square&logo=docker&logoColor=2496ED)
 
 </div>
 
