@@ -21,7 +21,6 @@ Atuo com estratégias de testes, análise de riscos e automação, aplicando pr�
 | [API REST + Testes Automatizados](https://github.com/FelipeGabriel7/api-express-supertest-ci-cd) | Node.js, Express, Jest, Supertest, Postman |
 | [Playwright Express](https://github.com/FelipeGabriel7/playwright-express) | Playwright, TypeScript |
 | [Cypress E2E — Swag Labs](https://github.com/FelipeGabriel7/cypress-e2e-swag-labs) | Cypress, BDD, Allure, CI/CD |
-| [Robot Framework E2E](https://github.com/FelipeGabriel7/robot_test_E2E) | Robot Framework |
 | [Playwright Actions Template](https://github.com/FelipeGabriel7/playwright-actions-template) | Playwright, GitHub Actions |
 
 
