@@ -7,11 +7,10 @@
 
 </div>
 
-### Sobre mim
 
-Sou **QA Analyst**, formado em **Sistemas de Informação** e pós-graduando em **Engenharia de Software com Ênfase em Qualidade e Testes de Software**.
+Sou **QA Engineer**, formado em **Sistemas de Informação** e pós-graduando em **Engenharia de Software com Ênfase em Qualidade e Testes de Software**.
 
-Atuo na qualidade de sistemas críticos do setor de saúde, com experiência em aplicações Web, Mobile, APIs e sistemas legados. Meu trabalho envolve desafios de confiabilidade, integração e prevenção de regressões, combinando estratégias de testes baseadas em riscos, testes manuais e automação.
+Tenho experiência em aplicações Web, Mobile, APIs e sistemas legados. Meu trabalho envolve desafios de confiabilidade, integração e prevenção de regressões, combinando estratégias de testes baseadas em riscos, testes manuais e automação.
 
 Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, conectando estratégias de testes, práticas de Engenharia de Software e CI/CD às necessidades do produto e do negócio. Minha experiência em desenvolvimento de software complementa essa atuação, assim como a aplicação de Inteligência Artificial aos processos de qualidade.
 
@@ -62,10 +61,11 @@ Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, c
 ![Node.js](https://img.shields.io/badge/Node.js-1C1C1C?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 ![Laravel](https://img.shields.io/badge/Laravel-1C1C1C?style=flat-square&logo=laravel&logoColor=FF2D20)
 
+---
 
 <div align="center">
 
-<strong>“Insanidade é continuar fazendo sempre a mesma coisa e esperar resultados diferentes.”</strong>
+<strong>“Insanidade é continuar fazendo sempre a mesma coisa e esperar resultados diferentes.” - Albert Eisten </strong>
 
 <br>
 
