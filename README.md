@@ -54,6 +54,7 @@ Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, c
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1C1C1C?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-1C1C1C?style=flat-square&logo=azuredevops&logoColor=0078D7)
 ![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=flat-square&logo=docker&logoColor=2496ED)
+![Allure Report](https://img.shields.io/badge/Allure_Report-1C1C1C?style=flat-square&logoColor=FF6A00)
 
 **Conhecimentos complementares**
 
