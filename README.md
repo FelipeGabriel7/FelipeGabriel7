@@ -7,7 +7,6 @@
 
 </div>
 
-
 Sou **QA Engineer**, formado em **Sistemas de Informação** e pós-graduando em **Engenharia de Software com Ênfase em Qualidade e Testes de Software**.
 
 Tenho experiência em aplicações Web, Mobile, APIs e sistemas legados. Meu trabalho envolve desafios de confiabilidade, integração e prevenção de regressões, combinando estratégias de testes baseadas em riscos, testes manuais e automação.
@@ -33,11 +32,11 @@ Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, c
 
 ### Tecnologias e Competências
 
-
 **Linguagens**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=3776AB)
 
 **Automação de Testes**
 
@@ -60,15 +59,14 @@ Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, c
 
 ![React](https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-1C1C1C?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![FastAPI](https://img.shields.io/badge/FastAPI-1C1C1C?style=flat-square&logo=fastapi&logoColor=009688)
 ![Laravel](https://img.shields.io/badge/Laravel-1C1C1C?style=flat-square&logo=laravel&logoColor=FF2D20)
 
 ---
 
 <div align="center">
 
-<strong>“Insanidade é continuar fazendo sempre a mesma coisa e esperar resultados diferentes.” - Albert Eisten </strong>
-
-<br>
+<strong>“Insanidade é continuar fazendo sempre a mesma coisa e esperar resultados diferentes.”</strong>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=90&section=footer" width="100%" alt="Rodapé"/>
 
