@@ -41,7 +41,6 @@ Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, c
 **Automação de Testes**
 
 ![Playwright](https://img.shields.io/badge/Playwright-1C1C1C?style=flat-square&logo=playwright&logoColor=2EAD33)
-![Cypress](https://img.shields.io/badge/Cypress-1C1C1C?style=flat-square&logo=cypress&logoColor=69D3A7)
 ![Postman](https://img.shields.io/badge/Postman-1C1C1C?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Bruno](https://img.shields.io/badge/Bruno-1C1C1C?style=flat-square&logoColor=F4B400)
 ![k6](https://img.shields.io/badge/k6-1C1C1C?style=flat-square&logo=k6&logoColor=7D64FF)
