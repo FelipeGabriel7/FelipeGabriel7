@@ -41,6 +41,7 @@ Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, c
 **Automação de Testes**
 
 ![Playwright](https://img.shields.io/badge/Playwright-1C1C1C?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Cypress](https://img.shields.io/badge/Cypress-1C1C1C?style=flat-square&logo=cypress&logoColor=69D3A7)
 ![Postman](https://img.shields.io/badge/Postman-1C1C1C?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Bruno](https://img.shields.io/badge/Bruno-1C1C1C?style=flat-square&logoColor=F4B400)
 ![k6](https://img.shields.io/badge/k6-1C1C1C?style=flat-square&logo=k6&logoColor=7D64FF)
@@ -59,7 +60,6 @@ Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, c
 ![React](https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-1C1C1C?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1C1C1C?style=flat-square&logo=fastapi&logoColor=009688)
-![Laravel](https://img.shields.io/badge/Laravel-1C1C1C?style=flat-square&logo=laravel&logoColor=FF2D20)
 
 ---
 
