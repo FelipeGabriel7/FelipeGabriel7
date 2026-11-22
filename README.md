@@ -15,7 +15,7 @@ Atuo na qualidade de sistemas críticos do setor de saúde, com experiência em 
 
 Busco integrar a qualidade em todo o ciclo de desenvolvimento de software, conectando **automação, Engenharia de Software e CI/CD** às necessidades do produto e do negócio.
 
-Minha experiência em desenvolvimento de software complementa minha atuação em QA, contribuindo para a compreensão de arquiteturas, APIs e regras de negócio. Também aplico Inteligência Artificial à qualidade de software, incluindo **AI-Driven Testing e LLM Evaluation**.
+Minha experiência em desenvolvimento de software utilizando React, Node.js e Laravel complementa minha atuação em QA, contribuindo para a compreensão de arquiteturas e boas práticas de desenvolvimento, APIs e regras de negócio. Também aplico Inteligência Artificial à qualidade de software, incluindo **AI-Driven Testing e LLM Evaluation**.
 
 ---
 
@@ -58,11 +58,6 @@ Minha experiência em desenvolvimento de software complementa minha atuação em
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1C1C1C?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-1C1C1C?style=flat-square&logo=azuredevops&logoColor=0078D7)
 
-#### Desenvolvimento de Software
-
-![React](https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-1C1C1C?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Laravel](https://img.shields.io/badge/Laravel-1C1C1C?style=flat-square&logo=laravel&logoColor=FF2D20)
 
 ---
 
