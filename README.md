@@ -21,8 +21,7 @@ Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, c
 |---|---|---|
 | **Automação Web** | [Playwright E2E + Allure](https://github.com/FelipeGabriel7/playwright-e2e-pipeline-allure-report) | Playwright, TypeScript, POM, Allure, CI/CD |
 | **Testes de API** | [API REST + Testes Automatizados](https://github.com/FelipeGabriel7/api-express-supertest-ci-cd) | Node.js, Express, Jest, Supertest, Postman |
-| **Performance** | [Projetos com k6](https://github.com/search?q=user%3AFelipeGabriel7+k6&type=repositories) | k6, JavaScript |
-| **Automação Web** | [Cypress E2E — Swag Labs](https://github.com/FelipeGabriel7/cypress-e2e-swag-labs) | Cypress, BDD, Allure, CI/CD |
+| **Performance** | [Projeto com k6](https://github.com/search?q=user%3AFelipeGabriel7+k6&type=repositories) | k6, JavaScript |
 | **Automação Web** | [Playwright Express](https://github.com/FelipeGabriel7/playwright-express) | Playwright, TypeScript |
 | **CI/CD** | [Playwright Actions Template](https://github.com/FelipeGabriel7/playwright-actions-template) | Playwright, GitHub Actions |
 
@@ -41,7 +40,7 @@ Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, c
 **Automação de Testes**
 
 ![Playwright](https://img.shields.io/badge/Playwright-1C1C1C?style=flat-square&logo=playwright&logoColor=2EAD33)
-![Cypress](https://img.shields.io/badge/Cypress-1C1C1C?style=flat-square&logo=cypress&logoColor=69D3A7)
+![Maestro](https://img.shields.io/badge/Maestro-1C1C1C?style=flat-square&logoColor=00CFA6)
 ![Postman](https://img.shields.io/badge/Postman-1C1C1C?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Bruno](https://img.shields.io/badge/Bruno-1C1C1C?style=flat-square&logoColor=F4B400)
 ![k6](https://img.shields.io/badge/k6-1C1C1C?style=flat-square&logo=k6&logoColor=7D64FF)
@@ -59,7 +58,7 @@ Busco integrar a **qualidade em todo o ciclo de desenvolvimento de software**, c
 
 ![React](https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-1C1C1C?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![FastAPI](https://img.shields.io/badge/FastAPI-1C1C1C?style=flat-square&logo=fastapi&logoColor=009688)
+![Laravel](https://img.shields.io/badge/Laravel-1C1C1C?style=flat-square&logo=laravel&logoColor=FF2D20)
 
 ---
 
