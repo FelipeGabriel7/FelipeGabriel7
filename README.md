@@ -43,9 +43,11 @@ Minha experiência em desenvolvimento de software utilizando React, Node.js e La
 #### Quality Engineering
 
 ![Playwright](https://img.shields.io/badge/Playwright-1C1C1C?style=flat-square&logo=playwright&logoColor=2EAD33)
+![PactumJS](https://img.shields.io/badge/PactumJS-1C1C1C?style=flat-square&logoColor=00C896)
 ![Postman](https://img.shields.io/badge/Postman-1C1C1C?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Bruno](https://img.shields.io/badge/Bruno-1C1C1C?style=flat-square&logoColor=F4B400)
 ![k6](https://img.shields.io/badge/k6-1C1C1C?style=flat-square&logo=k6&logoColor=7D64FF)
+
 
 #### Bancos de Dados
 
