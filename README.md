@@ -15,7 +15,7 @@ Atuo na qualidade de sistemas críticos do setor de saúde, com experiência em 
 
 Busco integrar a qualidade em todo o ciclo de desenvolvimento de software, conectando **automação, Engenharia de Software e CI/CD** às necessidades do produto e do negócio.
 
-Minha experiência em desenvolvimento de software utilizando React, Node.js e Laravel complementa minha atuação em QA, contribuindo para a compreensão de arquiteturas e boas práticas de desenvolvimento, APIs e regras de negócio. Também aplico Inteligência Artificial à qualidade de software, incluindo **AI-Driven Testing e LLM Evaluation**.
+Minha experiência em desenvolvimento de software complementa minha atuação em QA, contribuindo para a compreensão de arquiteturas e boas práticas de desenvolvimento, APIs e regras de negócio. Também aplico Inteligência Artificial à qualidade de software, incluindo **AI-Driven Testing e LLM Evaluation**.
 
 ---
 
