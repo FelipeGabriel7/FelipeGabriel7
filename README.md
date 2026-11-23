@@ -11,7 +11,7 @@ Tenho interesse em Engenharia de Qualidade, CI/CD e Inteligência Artificial apl
 
 **Linguagens:** JavaScript · TypeScript · Python
 
-**Qualidade:** Playwright · Postman · Bruno · k6
+**Qualidade:** Playwright · Cypress · Postman · Bruno · k6
 
 **Dados:** MySQL · SQL Server · MongoDB
 
