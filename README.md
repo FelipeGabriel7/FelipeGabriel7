@@ -10,7 +10,11 @@ Tenho interesse em Engenharia de Qualidade, CI/CD e Inteligência Artificial apl
 ### Tecnologias
 
 **Linguagens:** JavaScript · TypeScript · Python
+
 **Qualidade:** Playwright · Postman · Bruno · k6
+
 **Dados:** MySQL · SQL Server · MongoDB
+
 **DevOps:** Docker · GitHub Actions · Azure DevOps
+
 **IA:** AI-Driven Testing · LLM Evaluation
