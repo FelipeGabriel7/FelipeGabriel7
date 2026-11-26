@@ -33,16 +33,20 @@ Tenho experiência em desenvolvimento de software e foco em Engenharia de Qualid
 
 ---
 
+
 ### Stack
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
 ![Playwright](https://img.shields.io/badge/Playwright-20232A?style=for-the-badge&logo=playwright)
+![Cypress](https://img.shields.io/badge/Cypress-20232A?style=for-the-badge&logo=cypress)
 ![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman)
 ![Bruno](https://img.shields.io/badge/Bruno-20232A?style=for-the-badge&logo=bruno)
 ![k6](https://img.shields.io/badge/k6-20232A?style=for-the-badge&logo=k6)
+![Maestro](https://img.shields.io/badge/Maestro-20232A?style=for-the-badge&logo=maestro)
 ![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-20232A?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker)
@@ -50,6 +54,7 @@ Tenho experiência em desenvolvimento de software e foco em Engenharia de Qualid
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-20232A?style=for-the-badge&logo=azuredevops)
 
 </div>
+
 
 <div align="center">
 
