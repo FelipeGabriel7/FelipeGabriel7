@@ -38,8 +38,8 @@ Tenho experiência em desenvolvimento de software e foco em Engenharia de Qualid
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript)
-![Cypress](https://img.shields.io/badge/Cypress-20232A?style=flat-square&logo=cypress)
 ![Playwright](https://img.shields.io/badge/Playwright-20232A?style=flat-square&logo=playwright)
+![Cypress](https://img.shields.io/badge/Cypress-20232A?style=flat-square&logo=cypress)
 ![Postman](https://img.shields.io/badge/Postman-20232A?style=flat-square&logo=postman)
 ![Bruno](https://img.shields.io/badge/Bruno-20232A?style=flat-square&logo=bruno)
 ![k6](https://img.shields.io/badge/k6-20232A?style=flat-square&logo=k6)
