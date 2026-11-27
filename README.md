@@ -34,24 +34,20 @@ Tenho experiência em desenvolvimento de software e foco em Engenharia de Qualid
 ---
 
 
-### Stack
-
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![Playwright](https://img.shields.io/badge/Playwright-20232A?style=for-the-badge&logo=playwright)
-![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman)
-![Bruno](https://img.shields.io/badge/Bruno-20232A?style=for-the-badge&logo=bruno)
-![k6](https://img.shields.io/badge/k6-20232A?style=for-the-badge&logo=k6)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQL Server](https://img.shields.io/badge/SQL_Server-20232A?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=for-the-badge&logo=githubactions)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-20232A?style=for-the-badge&logo=azuredevops)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript)
+![Cypress](https://img.shields.io/badge/Cypress-20232A?style=flat-square&logo=cypress)
+![Playwright](https://img.shields.io/badge/Playwright-20232A?style=flat-square&logo=playwright)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=flat-square&logo=postman)
+![Bruno](https://img.shields.io/badge/Bruno-20232A?style=flat-square&logo=bruno)
+![k6](https://img.shields.io/badge/k6-20232A?style=flat-square&logo=k6)
+![SQL](https://img.shields.io/badge/SQL-20232A?style=flat-square&logo=mysql)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=flat-square&logo=githubactions)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-20232A?style=flat-square&logo=azuredevops)
 
 </div>
-
 
 <div align="center">
 
